@@ -4,7 +4,7 @@ import numpy as np
 from torch.utils.data import Dataset
 import torch
 
-patch_size, stride = 64, 10
+patch_size, stride = 128, 10
 aug_times = 1
 scales = [1, 0.9, 0.8, 0.7]
 

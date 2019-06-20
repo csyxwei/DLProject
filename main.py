@@ -12,15 +12,10 @@ from data_generator import DenoisingDataset
 from option import get_parser
 from model import DnCNN
 from skimage.io import imread
-from unet import UNet
+from unet import UNet, WTUNet
 from util import show, save_result
 from skimage.measure import compare_psnr, compare_ssim
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '3'
-
-
-
-# print('xxxxxxxxxxx')
 
 class sum_squared_error(_Loss):
     def __init__(self, size_average=None, reduce=None, reduction='sum'):
@@ -31,13 +26,13 @@ class sum_squared_error(_Loss):
 
 
 def train(model, opt):
-    save_dir = os.path.join('models', opt.model + '_' + 'sigma' + str(opt.sigma))
+    save_dir = os.path.join(opt.model_dir, opt.model + '_' + 'sigma' + str(opt.sigma))
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
     opt.cuda = True
     torch.set_num_threads(4)
     optimizer = optim.Adam(model.parameters(), lr=opt.lr)
-    scheduler = MultiStepLR(optimizer, milestones=[30, 60, 90], gamma=0.2)
+    # scheduler = MultiStepLR(optimizer, milestones=[30, 60, 90], gamma=0.2)
     criterion = nn.MSELoss()
     # criterion = sum_squared_error()
     if opt.cuda:
@@ -51,7 +46,7 @@ def train(model, opt):
 
     for epoch in range(opt.epochs):
         model.train()
-        scheduler.step(epoch)
+        # scheduler.step(epoch)
         epoch_loss = 0.0
         start_time = time.time()
         train_loader = DataLoader(dataset=train_dataset,
@@ -64,15 +59,15 @@ def train(model, opt):
             if opt.cuda:
                 batch_x, batch_y = batch_x.cuda(), batch_y.cuda()
             loss = criterion(model(batch_y), batch_x)
-            epoch_loss + loss.item()
+            epoch_loss += loss.item()
             loss.backward()
             optimizer.step()
             if (i + 1) % 10 == 0:
-                print('Train Epoch: %4d [%4d / %4d] loss = %2.4f' % (
+                print('Train Epoch: {} [{} / {}] loss = {}'.format(
                     epoch + 1, i + 1, data.size(0) // opt.batch_size, loss.item() / opt.batch_size))
         validate(model, opt, epoch)
         t = time.time() - start_time
-        print('epcoh = %4d , loss = %4.4f , time = %4.2f s' % (epoch + 1, epoch_loss / (i + 1), t))
+        print('epcoh = {} , loss = {} , time = {} s'.format(epoch + 1, epoch_loss / ((i + 1) * 1.0), t))
         torch.save(model, os.path.join(save_dir, 'lastest.pth'))
 
 def validate(model, opt, epoch):
@@ -125,7 +120,8 @@ def validate(model, opt, epoch):
 
 
 if __name__ == '__main__':
-    model = UNet(1, 1)
-
+    model = WTUNet(1, 1)
     opt = get_parser().parse_args()
+    if opt.gpu == 1:
+        os.environ['CUDA_VISIBLE_DEVICES'] = '3'
     train(model, opt)
