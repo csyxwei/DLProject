@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always">
+    <serverData>
+      <paths name="node5">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/weiyuxiang/DLProject" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="weiyuxiang@node5:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/weiyuxiang/DLProject" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

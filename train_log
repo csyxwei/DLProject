@@ -1,0 +1,1751 @@
+Train Epoch: 1 [10 / 203] loss = 4.3607101013714616e-05
+Train Epoch: 1 [20 / 203] loss = 3.518885297870094e-05
+Train Epoch: 1 [30 / 203] loss = 3.157005095007745e-05
+Train Epoch: 1 [40 / 203] loss = 2.5375943038273942e-05
+Train Epoch: 1 [50 / 203] loss = 2.4686135690320624e-05
+Train Epoch: 1 [60 / 203] loss = 2.1046107973564756e-05
+Train Epoch: 1 [70 / 203] loss = 2.4590823291377587e-05
+Train Epoch: 1 [80 / 203] loss = 2.2548589516769756e-05
+Train Epoch: 1 [90 / 203] loss = 2.221787263723937e-05
+Train Epoch: 1 [100 / 203] loss = 2.027831929312511e-05
+Train Epoch: 1 [110 / 203] loss = 2.011614428325133e-05
+Train Epoch: 1 [120 / 203] loss = 1.9030148078772154e-05
+Train Epoch: 1 [130 / 203] loss = 1.8315861763601952e-05
+Train Epoch: 1 [140 / 203] loss = 1.8561102280562574e-05
+Train Epoch: 1 [150 / 203] loss = 1.99921979484233e-05
+Train Epoch: 1 [160 / 203] loss = 2.2967896339568224e-05
+Train Epoch: 1 [170 / 203] loss = 1.708192073486068e-05
+Train Epoch: 1 [180 / 203] loss = 2.16444827277552e-05
+Train Epoch: 1 [190 / 203] loss = 2.143667714500969e-05
+Train Epoch: 1 [200 / 203] loss = 2.0540363832630893e-05
+     Set12 :     11.png : 0.0435 second
+     Set12 :     08.png : 0.0404 second
+     Set12 :     02.png : 0.0161 second
+     Set12 :     06.png : 0.0159 second
+     Set12 :     10.png : 0.0464 second
+     Set12 :     01.png : 0.0186 second
+     Set12 :     07.png : 0.0162 second
+     Set12 :     03.png : 0.0427 second
+     Set12 :     12.png : 0.0468 second
+     Set12 :     09.png : 0.0981 second
+     Set12 :     04.png : 0.0697 second
+     Set12 :     05.png : 0.0827 second
+Datset: Set12      
+  PSNR = 27.76dB, SSIM = 0.8862
+epcoh = 1 , loss = 0.00316032947137438 , time = 256.49569058418274 s
+Train Epoch: 2 [10 / 203] loss = 2.073413184420629e-05
+Train Epoch: 2 [20 / 203] loss = 2.4719686586071144e-05
+Train Epoch: 2 [30 / 203] loss = 2.175678118047389e-05
+Train Epoch: 2 [40 / 203] loss = 1.8528611822561783e-05
+Train Epoch: 2 [50 / 203] loss = 1.896255099299279e-05
+Train Epoch: 2 [60 / 203] loss = 1.7957780933515592e-05
+Train Epoch: 2 [70 / 203] loss = 1.84881119904193e-05
+Train Epoch: 2 [80 / 203] loss = 1.7179131761870602e-05
+Train Epoch: 2 [90 / 203] loss = 1.6639353072440084e-05
+Train Epoch: 2 [100 / 203] loss = 1.8265585161068223e-05
+Train Epoch: 2 [110 / 203] loss = 2.063868186351928e-05
+Train Epoch: 2 [120 / 203] loss = 1.7533691557632252e-05
+Train Epoch: 2 [130 / 203] loss = 1.733126330443404e-05
+Train Epoch: 2 [140 / 203] loss = 1.686438388953155e-05
+Train Epoch: 2 [150 / 203] loss = 2.02916075729511e-05
+Train Epoch: 2 [160 / 203] loss = 1.7682832284745847e-05
+Train Epoch: 2 [170 / 203] loss = 1.7402108377692373e-05
+Train Epoch: 2 [180 / 203] loss = 1.830342649058862e-05
+Train Epoch: 2 [190 / 203] loss = 2.0060057497837327e-05
+Train Epoch: 2 [200 / 203] loss = 1.7103715799748896e-05
+     Set12 :     11.png : 0.0808 second
+     Set12 :     08.png : 0.0870 second
+     Set12 :     02.png : 0.0459 second
+     Set12 :     06.png : 0.0838 second
+     Set12 :     10.png : 0.0992 second
+     Set12 :     01.png : 0.0420 second
+     Set12 :     07.png : 0.0365 second
+     Set12 :     03.png : 0.0223 second
+     Set12 :     12.png : 0.0458 second
+     Set12 :     09.png : 0.0458 second
+     Set12 :     04.png : 0.0155 second
+     Set12 :     05.png : 0.0151 second
+Datset: Set12      
+  PSNR = 28.61dB, SSIM = 0.9001
+epcoh = 2 , loss = 0.0021180074565626426 , time = 256.2162482738495 s
+Train Epoch: 3 [10 / 203] loss = 1.840111164545471e-05
+Train Epoch: 3 [20 / 203] loss = 1.645089148289778e-05
+Train Epoch: 3 [30 / 203] loss = 1.8872877328910612e-05
+Train Epoch: 3 [40 / 203] loss = 1.7786838791587137e-05
+Train Epoch: 3 [50 / 203] loss = 2.1387556229125368e-05
+Train Epoch: 3 [60 / 203] loss = 1.8605708398602225e-05
+Train Epoch: 3 [70 / 203] loss = 1.6912530091675846e-05
+Train Epoch: 3 [80 / 203] loss = 1.8612786450169305e-05
+Train Epoch: 3 [90 / 203] loss = 1.905426721681248e-05
+Train Epoch: 3 [100 / 203] loss = 1.9964510151608424e-05
+Train Epoch: 3 [110 / 203] loss = 1.738705164329572e-05
+Train Epoch: 3 [120 / 203] loss = 1.6106370921162042e-05
+Train Epoch: 3 [130 / 203] loss = 1.6583967953920366e-05
+Train Epoch: 3 [140 / 203] loss = 1.8072985535995527e-05
+Train Epoch: 3 [150 / 203] loss = 1.7387495079839773e-05
+Train Epoch: 3 [160 / 203] loss = 1.7999051223424348e-05
+Train Epoch: 3 [170 / 203] loss = 1.7402187751775438e-05
+Train Epoch: 3 [180 / 203] loss = 2.06591963598674e-05
+Train Epoch: 3 [190 / 203] loss = 1.600829947909171e-05
+Train Epoch: 3 [200 / 203] loss = 1.6588472168553958e-05
+     Set12 :     11.png : 0.0865 second
+     Set12 :     08.png : 0.1021 second
+     Set12 :     02.png : 0.0153 second
+     Set12 :     06.png : 0.0153 second
+     Set12 :     10.png : 0.0469 second
+     Set12 :     01.png : 0.0161 second
+     Set12 :     07.png : 0.0154 second
+     Set12 :     03.png : 0.0155 second
+     Set12 :     12.png : 0.0461 second
+     Set12 :     09.png : 0.0792 second
+     Set12 :     04.png : 0.0722 second
+     Set12 :     05.png : 0.0172 second
+Datset: Set12      
+  PSNR = 28.81dB, SSIM = 0.9063
+epcoh = 3 , loss = 0.001968598483575352 , time = 254.24191856384277 s
+Train Epoch: 4 [10 / 203] loss = 1.8146566369316794e-05
+Train Epoch: 4 [20 / 203] loss = 1.7510750330984594e-05
+Train Epoch: 4 [30 / 203] loss = 1.7055816186422652e-05
+Train Epoch: 4 [40 / 203] loss = 1.7021506474438037e-05
+Train Epoch: 4 [50 / 203] loss = 1.951510255986994e-05
+Train Epoch: 4 [60 / 203] loss = 1.588296780193394e-05
+Train Epoch: 4 [70 / 203] loss = 1.381875587288629e-05
+Train Epoch: 4 [80 / 203] loss = 2.101038328625939e-05
+Train Epoch: 4 [90 / 203] loss = 1.7108837015588177e-05
+Train Epoch: 4 [100 / 203] loss = 1.52743453244594e-05
+Train Epoch: 4 [110 / 203] loss = 1.9260459918190133e-05
+Train Epoch: 4 [120 / 203] loss = 1.6062263272364033e-05
+Train Epoch: 4 [130 / 203] loss = 2.6259016753597692e-05
+Train Epoch: 4 [140 / 203] loss = 1.6046064609492366e-05
+Train Epoch: 4 [150 / 203] loss = 1.571665581485087e-05
+Train Epoch: 4 [160 / 203] loss = 2.1521628580310127e-05
+Train Epoch: 4 [170 / 203] loss = 1.6147612636400895e-05
+Train Epoch: 4 [180 / 203] loss = 1.6839082606814126e-05
+Train Epoch: 4 [190 / 203] loss = 1.542064975100485e-05
+Train Epoch: 4 [200 / 203] loss = 1.596799861131744e-05
+     Set12 :     11.png : 0.0440 second
+     Set12 :     08.png : 0.1073 second
+     Set12 :     02.png : 0.0579 second
+     Set12 :     06.png : 0.0427 second
+     Set12 :     10.png : 0.0886 second
+     Set12 :     01.png : 0.0777 second
+     Set12 :     07.png : 0.1228 second
+     Set12 :     03.png : 0.0350 second
+     Set12 :     12.png : 0.0559 second
+     Set12 :     09.png : 0.0452 second
+     Set12 :     04.png : 0.0466 second
+     Set12 :     05.png : 0.0341 second
+Datset: Set12      
+  PSNR = 29.28dB, SSIM = 0.9141
+epcoh = 4 , loss = 0.001919900157186088 , time = 261.33768248558044 s
+Train Epoch: 5 [10 / 203] loss = 1.863727176731283e-05
+Train Epoch: 5 [20 / 203] loss = 1.665878173133189e-05
+Train Epoch: 5 [30 / 203] loss = 1.600357619198886e-05
+Train Epoch: 5 [40 / 203] loss = 1.5978997742587868e-05
+Train Epoch: 5 [50 / 203] loss = 1.6868237236684018e-05
+Train Epoch: 5 [60 / 203] loss = 1.6390203117308292e-05
+Train Epoch: 5 [70 / 203] loss = 1.6603049483488908e-05
+Train Epoch: 5 [80 / 203] loss = 1.530929637903517e-05
+Train Epoch: 5 [90 / 203] loss = 1.5723654492334886e-05
+Train Epoch: 5 [100 / 203] loss = 1.721119571646506e-05
+Train Epoch: 5 [110 / 203] loss = 1.5535621522841127e-05
+Train Epoch: 5 [120 / 203] loss = 2.4070281704718416e-05
+Train Epoch: 5 [130 / 203] loss = 1.5333745713261042e-05
+Train Epoch: 5 [140 / 203] loss = 2.1328857507218014e-05
+Train Epoch: 5 [150 / 203] loss = 1.8414497290822592e-05
+Train Epoch: 5 [160 / 203] loss = 1.891260670328682e-05
+Train Epoch: 5 [170 / 203] loss = 1.7867743206972425e-05
+Train Epoch: 5 [180 / 203] loss = 1.8402622927996245e-05
+Train Epoch: 5 [190 / 203] loss = 1.7806982875547625e-05
+Train Epoch: 5 [200 / 203] loss = 1.7977472056042063e-05
+     Set12 :     11.png : 0.1112 second
+     Set12 :     08.png : 0.1106 second
+     Set12 :     02.png : 0.0159 second
+     Set12 :     06.png : 0.0216 second
+     Set12 :     10.png : 0.0566 second
+     Set12 :     01.png : 0.0173 second
+     Set12 :     07.png : 0.0287 second
+     Set12 :     03.png : 0.0882 second
+     Set12 :     12.png : 0.0998 second
+     Set12 :     09.png : 0.1439 second
+     Set12 :     04.png : 0.0784 second
+     Set12 :     05.png : 0.0669 second
+Datset: Set12      
+  PSNR = 29.27dB, SSIM = 0.9140
+epcoh = 5 , loss = 0.0018673105362637583 , time = 263.51344633102417 s
+Train Epoch: 6 [10 / 203] loss = 1.7390668984841215e-05
+Train Epoch: 6 [20 / 203] loss = 1.423990417441184e-05
+Train Epoch: 6 [30 / 203] loss = 1.8108841455118223e-05
+Train Epoch: 6 [40 / 203] loss = 1.904893751171502e-05
+Train Epoch: 6 [50 / 203] loss = 1.6684219537472184e-05
+Train Epoch: 6 [60 / 203] loss = 1.534816851331429e-05
+Train Epoch: 6 [70 / 203] loss = 1.6980580138889226e-05
+Train Epoch: 6 [80 / 203] loss = 2.3053080605512317e-05
+Train Epoch: 6 [90 / 203] loss = 2.0622711798006838e-05
+Train Epoch: 6 [100 / 203] loss = 1.6350652599199253e-05
+Train Epoch: 6 [110 / 203] loss = 1.7143492798574945e-05
+Train Epoch: 6 [120 / 203] loss = 1.8346709707243878e-05
+Train Epoch: 6 [130 / 203] loss = 1.6265359326181088e-05
+Train Epoch: 6 [140 / 203] loss = 1.526254504411058e-05
+Train Epoch: 6 [150 / 203] loss = 1.7219267531552097e-05
+Train Epoch: 6 [160 / 203] loss = 1.4572983226654205e-05
+Train Epoch: 6 [170 / 203] loss = 1.4969713943587108e-05
+Train Epoch: 6 [180 / 203] loss = 1.750407126647505e-05
+Train Epoch: 6 [190 / 203] loss = 1.61601569164883e-05
+Train Epoch: 6 [200 / 203] loss = 1.4656338713724504e-05
+     Set12 :     11.png : 0.0424 second
+     Set12 :     08.png : 0.0419 second
+     Set12 :     02.png : 0.0170 second
+     Set12 :     06.png : 0.0489 second
+     Set12 :     10.png : 0.1118 second
+     Set12 :     01.png : 0.0231 second
+     Set12 :     07.png : 0.0176 second
+     Set12 :     03.png : 0.0563 second
+     Set12 :     12.png : 0.1347 second
+     Set12 :     09.png : 0.0668 second
+     Set12 :     04.png : 0.0175 second
+     Set12 :     05.png : 0.0150 second
+Datset: Set12      
+  PSNR = 29.53dB, SSIM = 0.9193
+epcoh = 6 , loss = 0.0018290601197052106 , time = 264.25310587882996 s
+Train Epoch: 7 [10 / 203] loss = 1.5338321893729947e-05
+Train Epoch: 7 [20 / 203] loss = 1.66772960007868e-05
+Train Epoch: 7 [30 / 203] loss = 2.2243062796240505e-05
+Train Epoch: 7 [40 / 203] loss = 1.665674340487881e-05
+Train Epoch: 7 [50 / 203] loss = 1.6888894606381655e-05
+Train Epoch: 7 [60 / 203] loss = 2.0197088914838704e-05
+Train Epoch: 7 [70 / 203] loss = 1.616917910392989e-05
+Train Epoch: 7 [80 / 203] loss = 1.4125527179037982e-05
+Train Epoch: 7 [90 / 203] loss = 1.5462942379103465e-05
+Train Epoch: 7 [100 / 203] loss = 1.5456531069834124e-05
+Train Epoch: 7 [110 / 203] loss = 1.536949474195188e-05
+Train Epoch: 7 [120 / 203] loss = 1.6472583890638568e-05
+Train Epoch: 7 [130 / 203] loss = 1.6359169967472555e-05
+Train Epoch: 7 [140 / 203] loss = 1.4739024283533747e-05
+Train Epoch: 7 [150 / 203] loss = 1.4331559015607292e-05
+Train Epoch: 7 [160 / 203] loss = 1.7206346489150415e-05
+Train Epoch: 7 [170 / 203] loss = 1.448677344755693e-05
+Train Epoch: 7 [180 / 203] loss = 1.661786703731526e-05
+Train Epoch: 7 [190 / 203] loss = 1.763379815119234e-05
+Train Epoch: 7 [200 / 203] loss = 1.629927640103481e-05
+     Set12 :     11.png : 0.1019 second
+     Set12 :     08.png : 0.0513 second
+     Set12 :     02.png : 0.0160 second
+     Set12 :     06.png : 0.0155 second
+     Set12 :     10.png : 0.0452 second
+     Set12 :     01.png : 0.0911 second
+     Set12 :     07.png : 0.0158 second
+     Set12 :     03.png : 0.1252 second
+     Set12 :     12.png : 0.1031 second
+     Set12 :     09.png : 0.1130 second
+     Set12 :     04.png : 0.0570 second
+     Set12 :     05.png : 0.0483 second
+Datset: Set12      
+  PSNR = 29.05dB, SSIM = 0.9170
+epcoh = 7 , loss = 0.0018166542389278708 , time = 262.2874209880829 s
+Train Epoch: 8 [10 / 203] loss = 1.5614046291871503e-05
+Train Epoch: 8 [20 / 203] loss = 1.7715604256161233e-05
+Train Epoch: 8 [30 / 203] loss = 1.594162630763921e-05
+Train Epoch: 8 [40 / 203] loss = 1.649593362923373e-05
+Train Epoch: 8 [50 / 203] loss = 2.3356204937127504e-05
+Train Epoch: 8 [60 / 203] loss = 1.9681142558428373e-05
+Train Epoch: 8 [70 / 203] loss = 1.7540755851024932e-05
+Train Epoch: 8 [80 / 203] loss = 1.4062925368886102e-05
+Train Epoch: 8 [90 / 203] loss = 1.53795212761245e-05
+Train Epoch: 8 [100 / 203] loss = 1.618762140754949e-05
+Train Epoch: 8 [110 / 203] loss = 1.5044547829099677e-05
+Train Epoch: 8 [120 / 203] loss = 1.6204535495489835e-05
+Train Epoch: 8 [130 / 203] loss = 1.649853286587379e-05
+Train Epoch: 8 [140 / 203] loss = 1.6685527622361075e-05
+Train Epoch: 8 [150 / 203] loss = 1.7144895074042408e-05
+Train Epoch: 8 [160 / 203] loss = 1.8842859109016982e-05
+Train Epoch: 8 [170 / 203] loss = 1.4205743685703386e-05
+Train Epoch: 8 [180 / 203] loss = 1.7285551240837032e-05
+Train Epoch: 8 [190 / 203] loss = 1.4552446505562825e-05
+Train Epoch: 8 [200 / 203] loss = 1.4351200397041711e-05
+     Set12 :     11.png : 0.0442 second
+     Set12 :     08.png : 0.0436 second
+     Set12 :     02.png : 0.0192 second
+     Set12 :     06.png : 0.0174 second
+     Set12 :     10.png : 0.1133 second
+     Set12 :     01.png : 0.0209 second
+     Set12 :     07.png : 0.0218 second
+     Set12 :     03.png : 0.0985 second
+     Set12 :     12.png : 0.1056 second
+     Set12 :     09.png : 0.1233 second
+     Set12 :     04.png : 0.0156 second
+     Set12 :     05.png : 0.0154 second
+Datset: Set12      
+  PSNR = 29.58dB, SSIM = 0.9208
+epcoh = 8 , loss = 0.0018260020904903634 , time = 261.2004656791687 s
+Train Epoch: 9 [10 / 203] loss = 1.4068041293119843e-05
+Train Epoch: 9 [20 / 203] loss = 1.655333061617884e-05
+Train Epoch: 9 [30 / 203] loss = 1.6016008290038866e-05
+Train Epoch: 9 [40 / 203] loss = 1.722683876075528e-05
+Train Epoch: 9 [50 / 203] loss = 1.6020517796278e-05
+Train Epoch: 9 [60 / 203] loss = 1.56597710553218e-05
+Train Epoch: 9 [70 / 203] loss = 2.1460889415307477e-05
+Train Epoch: 9 [80 / 203] loss = 2.7261014011773196e-05
+Train Epoch: 9 [90 / 203] loss = 1.6088429203426295e-05
+Train Epoch: 9 [100 / 203] loss = 1.595964316617359e-05
+Train Epoch: 9 [110 / 203] loss = 1.5611526429314505e-05
+Train Epoch: 9 [120 / 203] loss = 1.5121560797772625e-05
+Train Epoch: 9 [130 / 203] loss = 1.6172326550903645e-05
+Train Epoch: 9 [140 / 203] loss = 1.611028988422318e-05
+Train Epoch: 9 [150 / 203] loss = 1.543023284863342e-05
+Train Epoch: 9 [160 / 203] loss = 1.520323037931865e-05
+Train Epoch: 9 [170 / 203] loss = 1.4776570341465147e-05
+Train Epoch: 9 [180 / 203] loss = 1.4847537121650847e-05
+Train Epoch: 9 [190 / 203] loss = 1.797603273933584e-05
+Train Epoch: 9 [200 / 203] loss = 1.4220259618014098e-05
+     Set12 :     11.png : 0.1660 second
+     Set12 :     08.png : 0.0950 second
+     Set12 :     02.png : 0.0164 second
+     Set12 :     06.png : 0.0168 second
+     Set12 :     10.png : 0.0482 second
+     Set12 :     01.png : 0.0190 second
+     Set12 :     07.png : 0.0159 second
+     Set12 :     03.png : 0.0319 second
+     Set12 :     12.png : 0.0619 second
+     Set12 :     09.png : 0.0645 second
+     Set12 :     04.png : 0.1194 second
+     Set12 :     05.png : 0.0690 second
+Datset: Set12      
+  PSNR = 29.59dB, SSIM = 0.9202
+epcoh = 9 , loss = 0.0017850558104892742 , time = 265.3138916492462 s
+Train Epoch: 10 [10 / 203] loss = 1.8992080268534746e-05
+Train Epoch: 10 [20 / 203] loss = 1.6126222908496858e-05
+Train Epoch: 10 [30 / 203] loss = 1.7240675250914965e-05
+Train Epoch: 10 [40 / 203] loss = 1.752042867751284e-05
+Train Epoch: 10 [50 / 203] loss = 1.5956796282394366e-05
+Train Epoch: 10 [60 / 203] loss = 1.4478493143211712e-05
+Train Epoch: 10 [70 / 203] loss = 1.7991949888792905e-05
+Train Epoch: 10 [80 / 203] loss = 1.665972469543869e-05
+Train Epoch: 10 [90 / 203] loss = 1.5124898742545735e-05
+Train Epoch: 10 [100 / 203] loss = 1.6282559160820464e-05
+Train Epoch: 10 [110 / 203] loss = 1.4641293620860035e-05
+Train Epoch: 10 [120 / 203] loss = 1.510757085105235e-05
+Train Epoch: 10 [130 / 203] loss = 1.5063201796940782e-05
+Train Epoch: 10 [140 / 203] loss = 1.5352954241362487e-05
+Train Epoch: 10 [150 / 203] loss = 1.4719568108293143e-05
+Train Epoch: 10 [160 / 203] loss = 1.6834405885840005e-05
+Train Epoch: 10 [170 / 203] loss = 1.3777958652512594e-05
+Train Epoch: 10 [180 / 203] loss = 1.6919577451930804e-05
+Train Epoch: 10 [190 / 203] loss = 2.2036616097797047e-05
+Train Epoch: 10 [200 / 203] loss = 1.4529390980235556e-05
+     Set12 :     11.png : 0.1008 second
+     Set12 :     08.png : 0.1285 second
+     Set12 :     02.png : 0.0159 second
+     Set12 :     06.png : 0.0177 second
+     Set12 :     10.png : 0.0460 second
+     Set12 :     01.png : 0.0158 second
+     Set12 :     07.png : 0.0431 second
+     Set12 :     03.png : 0.0170 second
+     Set12 :     12.png : 0.1138 second
+     Set12 :     09.png : 0.1197 second
+     Set12 :     04.png : 0.1012 second
+     Set12 :     05.png : 0.0194 second
+Datset: Set12      
+  PSNR = 29.15dB, SSIM = 0.9198
+epcoh = 10 , loss = 0.0017579346459377283 , time = 264.06781005859375 s
+Train Epoch: 11 [10 / 203] loss = 1.5353003982454537e-05
+Train Epoch: 11 [20 / 203] loss = 1.6838516405021603e-05
+Train Epoch: 11 [30 / 203] loss = 2.069006335328926e-05
+Train Epoch: 11 [40 / 203] loss = 1.5172141138464212e-05
+Train Epoch: 11 [50 / 203] loss = 1.5014723281968723e-05
+Train Epoch: 11 [60 / 203] loss = 1.5396035318686204e-05
+Train Epoch: 11 [70 / 203] loss = 1.5085009561682289e-05
+Train Epoch: 11 [80 / 203] loss = 1.563313840465112e-05
+Train Epoch: 11 [90 / 203] loss = 1.6543237407776442e-05
+Train Epoch: 11 [100 / 203] loss = 1.5493233645842835e-05
+Train Epoch: 11 [110 / 203] loss = 2.286656844345006e-05
+Train Epoch: 11 [120 / 203] loss = 1.5024658800526099e-05
+Train Epoch: 11 [130 / 203] loss = 1.4024997257034888e-05
+Train Epoch: 11 [140 / 203] loss = 1.4185399579053575e-05
+Train Epoch: 11 [150 / 203] loss = 1.5077626713636246e-05
+Train Epoch: 11 [160 / 203] loss = 1.4190406496213241e-05
+Train Epoch: 11 [170 / 203] loss = 1.4704496557400985e-05
+Train Epoch: 11 [180 / 203] loss = 1.650313338772817e-05
+Train Epoch: 11 [190 / 203] loss = 1.6533869149332698e-05
+Train Epoch: 11 [200 / 203] loss = 1.8542505462061275e-05
+     Set12 :     11.png : 0.0740 second
+     Set12 :     08.png : 0.1021 second
+     Set12 :     02.png : 0.0989 second
+     Set12 :     06.png : 0.0999 second
+     Set12 :     10.png : 0.0441 second
+     Set12 :     01.png : 0.0158 second
+     Set12 :     07.png : 0.0148 second
+     Set12 :     03.png : 0.0149 second
+     Set12 :     12.png : 0.0434 second
+     Set12 :     09.png : 0.1827 second
+     Set12 :     04.png : 0.0534 second
+     Set12 :     05.png : 0.0772 second
+Datset: Set12      
+  PSNR = 29.16dB, SSIM = 0.9224
+epcoh = 11 , loss = 0.0017620625589134659 , time = 264.636714220047 s
+Train Epoch: 12 [10 / 203] loss = 1.6020758035169407e-05
+Train Epoch: 12 [20 / 203] loss = 1.4738018878481605e-05
+Train Epoch: 12 [30 / 203] loss = 1.6871782612394203e-05
+Train Epoch: 12 [40 / 203] loss = 1.7514697868715634e-05
+Train Epoch: 12 [50 / 203] loss = 2.345102627507665e-05
+Train Epoch: 12 [60 / 203] loss = 1.5308845534243366e-05
+Train Epoch: 12 [70 / 203] loss = 1.6667017586190592e-05
+Train Epoch: 12 [80 / 203] loss = 1.4693071981045332e-05
+Train Epoch: 12 [90 / 203] loss = 1.3779168313538486e-05
+Train Epoch: 12 [100 / 203] loss = 1.403449463065375e-05
+Train Epoch: 12 [110 / 203] loss = 1.9210739992558956e-05
+Train Epoch: 12 [120 / 203] loss = 1.6590669243173166e-05
+Train Epoch: 12 [130 / 203] loss = 1.3819090302356265e-05
+Train Epoch: 12 [140 / 203] loss = 1.4583756935528734e-05
+Train Epoch: 12 [150 / 203] loss = 1.3968928463079713e-05
+Train Epoch: 12 [160 / 203] loss = 1.5839331106028773e-05
+Train Epoch: 12 [170 / 203] loss = 1.9971349022605202e-05
+Train Epoch: 12 [180 / 203] loss = 1.638391034000299e-05
+Train Epoch: 12 [190 / 203] loss = 1.6281752720136535e-05
+Train Epoch: 12 [200 / 203] loss = 1.662931913001971e-05
+     Set12 :     11.png : 0.0722 second
+     Set12 :     08.png : 0.0918 second
+     Set12 :     02.png : 0.0782 second
+     Set12 :     06.png : 0.0682 second
+     Set12 :     10.png : 0.1196 second
+     Set12 :     01.png : 0.0410 second
+     Set12 :     07.png : 0.0634 second
+     Set12 :     03.png : 0.0428 second
+     Set12 :     12.png : 0.0732 second
+     Set12 :     09.png : 0.0508 second
+     Set12 :     04.png : 0.0276 second
+     Set12 :     05.png : 0.0149 second
+Datset: Set12      
+  PSNR = 29.44dB, SSIM = 0.9196
+epcoh = 12 , loss = 0.0017277049932977542 , time = 262.26879811286926 s
+Train Epoch: 13 [10 / 203] loss = 1.3472258367321707e-05
+Train Epoch: 13 [20 / 203] loss = 1.526290381496603e-05
+Train Epoch: 13 [30 / 203] loss = 1.3783952983265574e-05
+Train Epoch: 13 [40 / 203] loss = 1.5903850594027477e-05
+Train Epoch: 13 [50 / 203] loss = 1.7128441355783832e-05
+Train Epoch: 13 [60 / 203] loss = 1.5413701872933996e-05
+Train Epoch: 13 [70 / 203] loss = 1.723075666549531e-05
+Train Epoch: 13 [80 / 203] loss = 1.4513022985986688e-05
+Train Epoch: 13 [90 / 203] loss = 1.742888284339146e-05
+Train Epoch: 13 [100 / 203] loss = 1.5817796388133006e-05
+Train Epoch: 13 [110 / 203] loss = 1.4692522712390532e-05
+Train Epoch: 13 [120 / 203] loss = 1.741426425393332e-05
+Train Epoch: 13 [130 / 203] loss = 1.4832008376040241e-05
+Train Epoch: 13 [140 / 203] loss = 2.8786329891193998e-05
+Train Epoch: 13 [150 / 203] loss = 1.5024872581389818e-05
+Train Epoch: 13 [160 / 203] loss = 1.558564624495127e-05
+Train Epoch: 13 [170 / 203] loss = 1.34477053176273e-05
+Train Epoch: 13 [180 / 203] loss = 1.674147259274667e-05
+Train Epoch: 13 [190 / 203] loss = 1.4002186203883452e-05
+Train Epoch: 13 [200 / 203] loss = 1.3383565766906196e-05
+     Set12 :     11.png : 0.0875 second
+     Set12 :     08.png : 0.1343 second
+     Set12 :     02.png : 0.0157 second
+     Set12 :     06.png : 0.0151 second
+     Set12 :     10.png : 0.0447 second
+     Set12 :     01.png : 0.0162 second
+     Set12 :     07.png : 0.0159 second
+     Set12 :     03.png : 0.0181 second
+     Set12 :     12.png : 0.1001 second
+     Set12 :     09.png : 0.1278 second
+     Set12 :     04.png : 0.0715 second
+     Set12 :     05.png : 0.0579 second
+Datset: Set12      
+  PSNR = 30.00dB, SSIM = 0.9255
+epcoh = 13 , loss = 0.0017486056662738103 , time = 265.0419659614563 s
+Train Epoch: 14 [10 / 203] loss = 1.5414843801409006e-05
+Train Epoch: 14 [20 / 203] loss = 1.6382494306361132e-05
+Train Epoch: 14 [30 / 203] loss = 1.2504926417022943e-05
+Train Epoch: 14 [40 / 203] loss = 1.491568876769055e-05
+Train Epoch: 14 [50 / 203] loss = 1.6257746822454712e-05
+Train Epoch: 14 [60 / 203] loss = 1.6301414209671996e-05
+Train Epoch: 14 [70 / 203] loss = 1.4373635746199977e-05
+Train Epoch: 14 [80 / 203] loss = 1.3576027810234914e-05
+Train Epoch: 14 [90 / 203] loss = 1.4173134695738554e-05
+Train Epoch: 14 [100 / 203] loss = 1.4123877256431363e-05
+Train Epoch: 14 [110 / 203] loss = 1.516405450688167e-05
+Train Epoch: 14 [120 / 203] loss = 1.435876845128157e-05
+Train Epoch: 14 [130 / 203] loss = 1.5389887531372632e-05
+Train Epoch: 14 [140 / 203] loss = 1.3635286384008148e-05
+Train Epoch: 14 [150 / 203] loss = 1.3848565603521736e-05
+Train Epoch: 14 [160 / 203] loss = 1.5807559248059987e-05
+Train Epoch: 14 [170 / 203] loss = 1.4442100655287504e-05
+Train Epoch: 14 [180 / 203] loss = 1.5264592895453627e-05
+Train Epoch: 14 [190 / 203] loss = 1.3483920007605444e-05
+Train Epoch: 14 [200 / 203] loss = 1.6109672883017498e-05
+     Set12 :     11.png : 0.1349 second
+     Set12 :     08.png : 0.0828 second
+     Set12 :     02.png : 0.1424 second
+     Set12 :     06.png : 0.0660 second
+     Set12 :     10.png : 0.0977 second
+     Set12 :     01.png : 0.0161 second
+     Set12 :     07.png : 0.0160 second
+     Set12 :     03.png : 0.0156 second
+     Set12 :     12.png : 0.0470 second
+     Set12 :     09.png : 0.0461 second
+     Set12 :     04.png : 0.0288 second
+     Set12 :     05.png : 0.0483 second
+Datset: Set12      
+  PSNR = 29.86dB, SSIM = 0.9240
+epcoh = 14 , loss = 0.0016867594461970655 , time = 262.77593970298767 s
+Train Epoch: 15 [10 / 203] loss = 1.6566173342818564e-05
+Train Epoch: 15 [20 / 203] loss = 1.4707816510715268e-05
+Train Epoch: 15 [30 / 203] loss = 1.3868245084516026e-05
+Train Epoch: 15 [40 / 203] loss = 1.5140308956192299e-05
+Train Epoch: 15 [50 / 203] loss = 1.6482952262528917e-05
+Train Epoch: 15 [60 / 203] loss = 1.538249621675773e-05
+Train Epoch: 15 [70 / 203] loss = 1.4836825853721662e-05
+Train Epoch: 15 [80 / 203] loss = 1.497952669689601e-05
+Train Epoch: 15 [90 / 203] loss = 1.4737634707919575e-05
+Train Epoch: 15 [100 / 203] loss = 1.6718564174053345e-05
+Train Epoch: 15 [110 / 203] loss = 1.4529055492444472e-05
+Train Epoch: 15 [120 / 203] loss = 1.498535910451954e-05
+Train Epoch: 15 [130 / 203] loss = 1.3282467526468363e-05
+Train Epoch: 15 [140 / 203] loss = 1.509143462912603e-05
+Train Epoch: 15 [150 / 203] loss = 1.5105475375259465e-05
+Train Epoch: 15 [160 / 203] loss = 1.627986467528072e-05
+Train Epoch: 15 [170 / 203] loss = 1.4948936983604323e-05
+Train Epoch: 15 [180 / 203] loss = 1.4270016584884037e-05
+Train Epoch: 15 [190 / 203] loss = 1.4719277069988576e-05
+Train Epoch: 15 [200 / 203] loss = 1.4244609470055862e-05
+     Set12 :     11.png : 0.1106 second
+     Set12 :     08.png : 0.1330 second
+     Set12 :     02.png : 0.0186 second
+     Set12 :     06.png : 0.0152 second
+     Set12 :     10.png : 0.0669 second
+     Set12 :     01.png : 0.0636 second
+     Set12 :     07.png : 0.0740 second
+     Set12 :     03.png : 0.0429 second
+     Set12 :     12.png : 0.1128 second
+     Set12 :     09.png : 0.0472 second
+     Set12 :     04.png : 0.0166 second
+     Set12 :     05.png : 0.0158 second
+Datset: Set12      
+  PSNR = 30.02dB, SSIM = 0.9259
+epcoh = 15 , loss = 0.0016720794018569031 , time = 269.851806640625 s
+Train Epoch: 16 [10 / 203] loss = 1.5598656186325984e-05
+Train Epoch: 16 [20 / 203] loss = 1.5646094371649352e-05
+Train Epoch: 16 [30 / 203] loss = 1.4652400700883432e-05
+Train Epoch: 16 [40 / 203] loss = 1.3768791475079277e-05
+Train Epoch: 16 [50 / 203] loss = 1.364025202664462e-05
+Train Epoch: 16 [60 / 203] loss = 1.6207796182822097e-05
+Train Epoch: 16 [70 / 203] loss = 1.4730721754445272e-05
+Train Epoch: 16 [80 / 203] loss = 1.4437435575845567e-05
+Train Epoch: 16 [90 / 203] loss = 1.3984939803115347e-05
+Train Epoch: 16 [100 / 203] loss = 1.4538429042493755e-05
+Train Epoch: 16 [110 / 203] loss = 1.3723478398539803e-05
+Train Epoch: 16 [120 / 203] loss = 1.4651400587436827e-05
+Train Epoch: 16 [130 / 203] loss = 1.4771370809863913e-05
+Train Epoch: 16 [140 / 203] loss = 1.5466737518595024e-05
+Train Epoch: 16 [150 / 203] loss = 1.3629992661828344e-05
+Train Epoch: 16 [160 / 203] loss = 1.467003444717689e-05
+Train Epoch: 16 [170 / 203] loss = 2.0064769143407994e-05
+Train Epoch: 16 [180 / 203] loss = 1.4110431286760352e-05
+Train Epoch: 16 [190 / 203] loss = 1.3394242110238834e-05
+Train Epoch: 16 [200 / 203] loss = 1.3892310248179869e-05
+     Set12 :     11.png : 0.0902 second
+     Set12 :     08.png : 0.1274 second
+     Set12 :     02.png : 0.0207 second
+     Set12 :     06.png : 0.0181 second
+     Set12 :     10.png : 0.0554 second
+     Set12 :     01.png : 0.0162 second
+     Set12 :     07.png : 0.0164 second
+     Set12 :     03.png : 0.0893 second
+     Set12 :     12.png : 0.0732 second
+     Set12 :     09.png : 0.1176 second
+     Set12 :     04.png : 0.0967 second
+     Set12 :     05.png : 0.1359 second
+Datset: Set12      
+  PSNR = 29.17dB, SSIM = 0.9234
+epcoh = 16 , loss = 0.0016828126335984527 , time = 264.8055520057678 s
+Train Epoch: 17 [10 / 203] loss = 1.734690105711872e-05
+Train Epoch: 17 [20 / 203] loss = 1.4018071603707291e-05
+Train Epoch: 17 [30 / 203] loss = 1.3366445306349885e-05
+Train Epoch: 17 [40 / 203] loss = 1.4040250839157538e-05
+Train Epoch: 17 [50 / 203] loss = 1.6362557653337716e-05
+Train Epoch: 17 [60 / 203] loss = 1.42137139019641e-05
+Train Epoch: 17 [70 / 203] loss = 1.4557996341450647e-05
+Train Epoch: 17 [80 / 203] loss = 1.5758406582542442e-05
+Train Epoch: 17 [90 / 203] loss = 1.4032219240272587e-05
+Train Epoch: 17 [100 / 203] loss = 1.588593110103499e-05
+Train Epoch: 17 [110 / 203] loss = 1.4437431342561137e-05
+Train Epoch: 17 [120 / 203] loss = 1.4998351054435426e-05
+Train Epoch: 17 [130 / 203] loss = 1.4495020943947813e-05
+Train Epoch: 17 [140 / 203] loss = 1.5116003553637049e-05
+Train Epoch: 17 [150 / 203] loss = 1.5073459045114842e-05
+Train Epoch: 17 [160 / 203] loss = 1.3737103224477984e-05
+Train Epoch: 17 [170 / 203] loss = 1.7213474281809548e-05
+Train Epoch: 17 [180 / 203] loss = 1.60091429610144e-05
+Train Epoch: 17 [190 / 203] loss = 1.823081507940184e-05
+Train Epoch: 17 [200 / 203] loss = 1.7415222034535626e-05
+     Set12 :     11.png : 0.0428 second
+     Set12 :     08.png : 0.0426 second
+     Set12 :     02.png : 0.0557 second
+     Set12 :     06.png : 0.0785 second
+     Set12 :     10.png : 0.1057 second
+     Set12 :     01.png : 0.0688 second
+     Set12 :     07.png : 0.0793 second
+     Set12 :     03.png : 0.0781 second
+     Set12 :     12.png : 0.1064 second
+     Set12 :     09.png : 0.0509 second
+     Set12 :     04.png : 0.0163 second
+     Set12 :     05.png : 0.0225 second
+Datset: Set12      
+  PSNR = 28.69dB, SSIM = 0.9227
+epcoh = 17 , loss = 0.0016607095446125627 , time = 267.74733686447144 s
+Train Epoch: 18 [10 / 203] loss = 1.6485785388133742e-05
+Train Epoch: 18 [20 / 203] loss = 1.729995710775256e-05
+Train Epoch: 18 [30 / 203] loss = 1.651264875280586e-05
+Train Epoch: 18 [40 / 203] loss = 1.558753958141262e-05
+Train Epoch: 18 [50 / 203] loss = 1.4547932766039263e-05
+Train Epoch: 18 [60 / 203] loss = 1.3834719588472085e-05
+Train Epoch: 18 [70 / 203] loss = 1.4168248427185145e-05
+Train Epoch: 18 [80 / 203] loss = 1.45155587233603e-05
+Train Epoch: 18 [90 / 203] loss = 1.490837259387428e-05
+Train Epoch: 18 [100 / 203] loss = 1.3564829714596272e-05
+Train Epoch: 18 [110 / 203] loss = 1.3383298011665994e-05
+Train Epoch: 18 [120 / 203] loss = 1.6118904618038373e-05
+Train Epoch: 18 [130 / 203] loss = 1.45314388315786e-05
+Train Epoch: 18 [140 / 203] loss = 1.450247469950806e-05
+Train Epoch: 18 [150 / 203] loss = 1.4332718935541131e-05
+Train Epoch: 18 [160 / 203] loss = 1.394305992024866e-05
+Train Epoch: 18 [170 / 203] loss = 1.4614418614655732e-05
+Train Epoch: 18 [180 / 203] loss = 1.4240015298128128e-05
+Train Epoch: 18 [190 / 203] loss = 1.5229619616134601e-05
+Train Epoch: 18 [200 / 203] loss = 1.3621965296227824e-05
+     Set12 :     11.png : 0.1049 second
+     Set12 :     08.png : 0.0453 second
+     Set12 :     02.png : 0.0153 second
+     Set12 :     06.png : 0.0151 second
+     Set12 :     10.png : 0.0436 second
+     Set12 :     01.png : 0.0164 second
+     Set12 :     07.png : 0.0292 second
+     Set12 :     03.png : 0.0570 second
+     Set12 :     12.png : 0.0813 second
+     Set12 :     09.png : 0.0889 second
+     Set12 :     04.png : 0.0620 second
+     Set12 :     05.png : 0.0641 second
+Datset: Set12      
+  PSNR = 29.98dB, SSIM = 0.9276
+epcoh = 18 , loss = 0.00163685251199388 , time = 268.1669487953186 s
+Train Epoch: 19 [10 / 203] loss = 1.4365763953802261e-05
+Train Epoch: 19 [20 / 203] loss = 1.2710853479802608e-05
+Train Epoch: 19 [30 / 203] loss = 1.5124172734265977e-05
+Train Epoch: 19 [40 / 203] loss = 1.7708367456428028e-05
+Train Epoch: 19 [50 / 203] loss = 1.462220044975931e-05
+Train Epoch: 19 [60 / 203] loss = 1.3844854071397674e-05
+Train Epoch: 19 [70 / 203] loss = 1.4480437279086222e-05
+Train Epoch: 19 [80 / 203] loss = 1.5019113197922706e-05
+Train Epoch: 19 [90 / 203] loss = 1.5763861169530588e-05
+Train Epoch: 19 [100 / 203] loss = 1.4101485298438506e-05
+Train Epoch: 19 [110 / 203] loss = 1.7346459737216886e-05
+Train Epoch: 19 [120 / 203] loss = 1.4216943897984244e-05
+Train Epoch: 19 [130 / 203] loss = 1.6125822863118216e-05
+Train Epoch: 19 [140 / 203] loss = 1.6599959185854954e-05
+Train Epoch: 19 [150 / 203] loss = 1.429084540260109e-05
+Train Epoch: 19 [160 / 203] loss = 1.4377337753434073e-05
+Train Epoch: 19 [170 / 203] loss = 1.398487842049111e-05
+Train Epoch: 19 [180 / 203] loss = 1.4799163380468434e-05
+Train Epoch: 19 [190 / 203] loss = 1.4091794252056967e-05
+Train Epoch: 19 [200 / 203] loss = 1.5625151255252688e-05
+     Set12 :     11.png : 0.1199 second
+     Set12 :     08.png : 0.0440 second
+     Set12 :     02.png : 0.0152 second
+     Set12 :     06.png : 0.0169 second
+     Set12 :     10.png : 0.0452 second
+     Set12 :     01.png : 0.0817 second
+     Set12 :     07.png : 0.0158 second
+     Set12 :     03.png : 0.1018 second
+     Set12 :     12.png : 0.1173 second
+     Set12 :     09.png : 0.1150 second
+     Set12 :     04.png : 0.0181 second
+     Set12 :     05.png : 0.0697 second
+Datset: Set12      
+  PSNR = 30.20dB, SSIM = 0.9281
+epcoh = 19 , loss = 0.0016390049160260871 , time = 265.9348990917206 s
+Train Epoch: 20 [10 / 203] loss = 1.7071414781226353e-05
+Train Epoch: 20 [20 / 203] loss = 1.3087254906581207e-05
+Train Epoch: 20 [30 / 203] loss = 1.564027148891579e-05
+Train Epoch: 20 [40 / 203] loss = 1.382562331855297e-05
+Train Epoch: 20 [50 / 203] loss = 1.5021899757398801e-05
+Train Epoch: 20 [60 / 203] loss = 1.712806247682734e-05
+Train Epoch: 20 [70 / 203] loss = 1.4218243516304276e-05
+Train Epoch: 20 [80 / 203] loss = 1.4729060190306468e-05
+Train Epoch: 20 [90 / 203] loss = 1.5747179912233894e-05
+Train Epoch: 20 [100 / 203] loss = 2.4094532074576076e-05
+Train Epoch: 20 [110 / 203] loss = 1.6012654470449144e-05
+Train Epoch: 20 [120 / 203] loss = 1.9775216721675612e-05
+Train Epoch: 20 [130 / 203] loss = 1.7011442899026655e-05
+Train Epoch: 20 [140 / 203] loss = 1.4174802609804002e-05
+Train Epoch: 20 [150 / 203] loss = 1.427600456571037e-05
+Train Epoch: 20 [160 / 203] loss = 1.895430667156523e-05
+Train Epoch: 20 [170 / 203] loss = 1.6145011283118617e-05
+Train Epoch: 20 [180 / 203] loss = 1.386493571441282e-05
+Train Epoch: 20 [190 / 203] loss = 1.3972597662359476e-05
+Train Epoch: 20 [200 / 203] loss = 1.348745585842566e-05
+     Set12 :     11.png : 0.1003 second
+     Set12 :     08.png : 0.0467 second
+     Set12 :     02.png : 0.0163 second
+     Set12 :     06.png : 0.0159 second
+     Set12 :     10.png : 0.0467 second
+     Set12 :     01.png : 0.0163 second
+     Set12 :     07.png : 0.0242 second
+     Set12 :     03.png : 0.0819 second
+     Set12 :     12.png : 0.1214 second
+     Set12 :     09.png : 0.1230 second
+     Set12 :     04.png : 0.0191 second
+     Set12 :     05.png : 0.0601 second
+Datset: Set12      
+  PSNR = 30.01dB, SSIM = 0.9255
+epcoh = 20 , loss = 0.0016544871594243009 , time = 265.4353919029236 s
+Train Epoch: 21 [10 / 203] loss = 1.479323889890855e-05
+Train Epoch: 21 [20 / 203] loss = 1.6747920943254773e-05
+Train Epoch: 21 [30 / 203] loss = 1.785452900962396e-05
+Train Epoch: 21 [40 / 203] loss = 1.3653784778646447e-05
+Train Epoch: 21 [50 / 203] loss = 1.3297981455583464e-05
+Train Epoch: 21 [60 / 203] loss = 1.3854116497730667e-05
+Train Epoch: 21 [70 / 203] loss = 1.2459433425895193e-05
+Train Epoch: 21 [80 / 203] loss = 1.384924610399387e-05
+Train Epoch: 21 [90 / 203] loss = 1.5739351511001587e-05
+Train Epoch: 21 [100 / 203] loss = 1.5050739007578654e-05
+Train Epoch: 21 [110 / 203] loss = 1.4983293261717667e-05
+Train Epoch: 21 [120 / 203] loss = 1.4063778375698762e-05
+Train Epoch: 21 [130 / 203] loss = 1.4799835414371707e-05
+Train Epoch: 21 [140 / 203] loss = 1.7188436521047894e-05
+Train Epoch: 21 [150 / 203] loss = 1.4391345691613176e-05
+Train Epoch: 21 [160 / 203] loss = 1.550455556505106e-05
+Train Epoch: 21 [170 / 203] loss = 1.5566954177550296e-05
+Train Epoch: 21 [180 / 203] loss = 1.4649946454235099e-05
+Train Epoch: 21 [190 / 203] loss = 1.59772282296961e-05
+Train Epoch: 21 [200 / 203] loss = 1.5929134943607178e-05
+     Set12 :     11.png : 0.1239 second
+     Set12 :     08.png : 0.1825 second
+     Set12 :     02.png : 0.0165 second
+     Set12 :     06.png : 0.0162 second
+     Set12 :     10.png : 0.0474 second
+     Set12 :     01.png : 0.0155 second
+     Set12 :     07.png : 0.0445 second
+     Set12 :     03.png : 0.0543 second
+     Set12 :     12.png : 0.0829 second
+     Set12 :     09.png : 0.1174 second
+     Set12 :     04.png : 0.0967 second
+     Set12 :     05.png : 0.0205 second
+Datset: Set12      
+  PSNR = 30.13dB, SSIM = 0.9274
+epcoh = 21 , loss = 0.0016171024857648635 , time = 264.7842872142792 s
+Train Epoch: 22 [10 / 203] loss = 1.68270706622438e-05
+Train Epoch: 22 [20 / 203] loss = 1.3844262469898571e-05
+Train Epoch: 22 [30 / 203] loss = 1.4414214952425523e-05
+Train Epoch: 22 [40 / 203] loss = 1.2447649020362984e-05
+Train Epoch: 22 [50 / 203] loss = 1.4273351354693824e-05
+Train Epoch: 22 [60 / 203] loss = 1.463125967843966e-05
+Train Epoch: 22 [70 / 203] loss = 1.4753832312470133e-05
+Train Epoch: 22 [80 / 203] loss = 1.7294350122524934e-05
+Train Epoch: 22 [90 / 203] loss = 1.3246107846498489e-05
+Train Epoch: 22 [100 / 203] loss = 1.3309921434318477e-05
+Train Epoch: 22 [110 / 203] loss = 1.4927697537297552e-05
+Train Epoch: 22 [120 / 203] loss = 1.4209899712692607e-05
+Train Epoch: 22 [130 / 203] loss = 1.35119570503858e-05
+Train Epoch: 22 [140 / 203] loss = 1.4542703601447019e-05
+Train Epoch: 22 [150 / 203] loss = 1.5875790268182755e-05
+Train Epoch: 22 [160 / 203] loss = 1.4970148913562298e-05
+Train Epoch: 22 [170 / 203] loss = 1.5518830200149254e-05
+Train Epoch: 22 [180 / 203] loss = 1.3943023937331004e-05
+Train Epoch: 22 [190 / 203] loss = 1.630385998975147e-05
+Train Epoch: 22 [200 / 203] loss = 1.5455486506901006e-05
+     Set12 :     11.png : 0.0453 second
+     Set12 :     08.png : 0.0432 second
+     Set12 :     02.png : 0.0456 second
+     Set12 :     06.png : 0.1053 second
+     Set12 :     10.png : 0.1564 second
+     Set12 :     01.png : 0.0907 second
+     Set12 :     07.png : 0.0297 second
+     Set12 :     03.png : 0.0389 second
+     Set12 :     12.png : 0.1484 second
+     Set12 :     09.png : 0.0459 second
+     Set12 :     04.png : 0.0179 second
+     Set12 :     05.png : 0.0157 second
+Datset: Set12      
+  PSNR = 29.68dB, SSIM = 0.9256
+epcoh = 22 , loss = 0.0016333300137451937 , time = 269.09354972839355 s
+Train Epoch: 23 [10 / 203] loss = 1.443693922324614e-05
+Train Epoch: 23 [20 / 203] loss = 1.4389048076488754e-05
+Train Epoch: 23 [30 / 203] loss = 1.3858769935640422e-05
+Train Epoch: 23 [40 / 203] loss = 1.4457789207385345e-05
+Train Epoch: 23 [50 / 203] loss = 1.3087980914860963e-05
+Train Epoch: 23 [60 / 203] loss = 1.5109205957163464e-05
+Train Epoch: 23 [70 / 203] loss = 1.373926643282175e-05
+Train Epoch: 23 [80 / 203] loss = 1.436978874897415e-05
+Train Epoch: 23 [90 / 203] loss = 1.4984787611121482e-05
+Train Epoch: 23 [100 / 203] loss = 1.5988259110599757e-05
+Train Epoch: 23 [110 / 203] loss = 1.599076838994568e-05
+Train Epoch: 23 [120 / 203] loss = 2.0632803948088127e-05
+Train Epoch: 23 [130 / 203] loss = 1.534201649271629e-05
+Train Epoch: 23 [140 / 203] loss = 1.3768072875047272e-05
+Train Epoch: 23 [150 / 203] loss = 1.5276070387864656e-05
+Train Epoch: 23 [160 / 203] loss = 1.5553251035850156e-05
+Train Epoch: 23 [170 / 203] loss = 1.5124708244746382e-05
+Train Epoch: 23 [180 / 203] loss = 1.3487718322060325e-05
+Train Epoch: 23 [190 / 203] loss = 1.5938322229141538e-05
+Train Epoch: 23 [200 / 203] loss = 1.4549372082745487e-05
+     Set12 :     11.png : 0.1116 second
+     Set12 :     08.png : 0.1024 second
+     Set12 :     02.png : 0.0179 second
+     Set12 :     06.png : 0.0142 second
+     Set12 :     10.png : 0.0402 second
+     Set12 :     01.png : 0.0142 second
+     Set12 :     07.png : 0.0140 second
+     Set12 :     03.png : 0.0144 second
+     Set12 :     12.png : 0.0468 second
+     Set12 :     09.png : 0.0412 second
+     Set12 :     04.png : 0.1072 second
+     Set12 :     05.png : 0.0804 second
+Datset: Set12      
+  PSNR = 30.13dB, SSIM = 0.9282
+epcoh = 23 , loss = 0.001677684941824544 , time = 269.5756108760834 s
+Train Epoch: 24 [10 / 203] loss = 1.4499973886730996e-05
+Train Epoch: 24 [20 / 203] loss = 1.4360889326781035e-05
+Train Epoch: 24 [30 / 203] loss = 1.4277948701584882e-05
+Train Epoch: 24 [40 / 203] loss = 1.3630548280409792e-05
+Train Epoch: 24 [50 / 203] loss = 1.608915309506384e-05
+Train Epoch: 24 [60 / 203] loss = 1.4040796932849016e-05
+Train Epoch: 24 [70 / 203] loss = 1.3625011144375259e-05
+Train Epoch: 24 [80 / 203] loss = 1.274090450765057e-05
+Train Epoch: 24 [90 / 203] loss = 1.3854077339849689e-05
+Train Epoch: 24 [100 / 203] loss = 1.3415261425755241e-05
+Train Epoch: 24 [110 / 203] loss = 1.5216549350456758e-05
+Train Epoch: 24 [120 / 203] loss = 1.3849943537603724e-05
+Train Epoch: 24 [130 / 203] loss = 1.3795048421756787e-05
+Train Epoch: 24 [140 / 203] loss = 1.4651707500558008e-05
+Train Epoch: 24 [150 / 203] loss = 1.5316502487456257e-05
+Train Epoch: 24 [160 / 203] loss = 1.548460092056881e-05
+Train Epoch: 24 [170 / 203] loss = 1.8356818790462886e-05
+Train Epoch: 24 [180 / 203] loss = 1.5985564625060018e-05
+Train Epoch: 24 [190 / 203] loss = 1.4669207898391918e-05
+Train Epoch: 24 [200 / 203] loss = 1.3429989022287456e-05
+     Set12 :     11.png : 0.0641 second
+     Set12 :     08.png : 0.0431 second
+     Set12 :     02.png : 0.0161 second
+     Set12 :     06.png : 0.0161 second
+     Set12 :     10.png : 0.0526 second
+     Set12 :     01.png : 0.0365 second
+     Set12 :     07.png : 0.0281 second
+     Set12 :     03.png : 0.0483 second
+     Set12 :     12.png : 0.0848 second
+     Set12 :     09.png : 0.1286 second
+     Set12 :     04.png : 0.0231 second
+     Set12 :     05.png : 0.0976 second
+Datset: Set12      
+  PSNR = 30.12dB, SSIM = 0.9271
+epcoh = 24 , loss = 0.0016168020906504885 , time = 265.93071699142456 s
+Train Epoch: 25 [10 / 203] loss = 1.4222872612828558e-05
+Train Epoch: 25 [20 / 203] loss = 1.3210367284376512e-05
+Train Epoch: 25 [30 / 203] loss = 1.545660091902722e-05
+Train Epoch: 25 [40 / 203] loss = 1.3396329119462859e-05
+Train Epoch: 25 [50 / 203] loss = 1.5828974375670607e-05
+Train Epoch: 25 [60 / 203] loss = 1.5289504716003483e-05
+Train Epoch: 25 [70 / 203] loss = 1.674454278227958e-05
+Train Epoch: 25 [80 / 203] loss = 1.3457667294212362e-05
+Train Epoch: 25 [90 / 203] loss = 1.2088003991679712e-05
+Train Epoch: 25 [100 / 203] loss = 1.223846444521438e-05
+Train Epoch: 25 [110 / 203] loss = 1.6106049191545356e-05
+Train Epoch: 25 [120 / 203] loss = 1.2718759138475766e-05
+Train Epoch: 25 [130 / 203] loss = 1.391282474452799e-05
+Train Epoch: 25 [140 / 203] loss = 1.3098591642284935e-05
+Train Epoch: 25 [150 / 203] loss = 1.4383460141041061e-05
+Train Epoch: 25 [160 / 203] loss = 1.2529227586293762e-05
+Train Epoch: 25 [170 / 203] loss = 1.3712558641352436e-05
+Train Epoch: 25 [180 / 203] loss = 1.4574373860589483e-05
+Train Epoch: 25 [190 / 203] loss = 1.5630622775378553e-05
+Train Epoch: 25 [200 / 203] loss = 1.2936144643886523e-05
+     Set12 :     11.png : 0.0467 second
+     Set12 :     08.png : 0.0616 second
+     Set12 :     02.png : 0.0656 second
+     Set12 :     06.png : 0.0919 second
+     Set12 :     10.png : 0.0762 second
+     Set12 :     01.png : 0.0876 second
+     Set12 :     07.png : 0.1023 second
+     Set12 :     03.png : 0.0685 second
+     Set12 :     12.png : 0.0737 second
+     Set12 :     09.png : 0.0469 second
+     Set12 :     04.png : 0.0168 second
+     Set12 :     05.png : 0.0157 second
+Datset: Set12      
+  PSNR = 30.01dB, SSIM = 0.9264
+epcoh = 25 , loss = 0.0016020466217982212 , time = 268.0574402809143 s
+Train Epoch: 26 [10 / 203] loss = 1.3233106371692637e-05
+Train Epoch: 26 [20 / 203] loss = 1.4150295067917216e-05
+Train Epoch: 26 [30 / 203] loss = 1.374827062880451e-05
+Train Epoch: 26 [40 / 203] loss = 1.5828335149721667e-05
+Train Epoch: 26 [50 / 203] loss = 1.3966983268884096e-05
+Train Epoch: 26 [60 / 203] loss = 1.5997804108668458e-05
+Train Epoch: 26 [70 / 203] loss = 1.2609124479984696e-05
+Train Epoch: 26 [80 / 203] loss = 1.4852967367253521e-05
+Train Epoch: 26 [90 / 203] loss = 1.4680480076508088e-05
+Train Epoch: 26 [100 / 203] loss = 1.4834736727855422e-05
+Train Epoch: 26 [110 / 203] loss = 1.5330667057159273e-05
+Train Epoch: 26 [120 / 203] loss = 1.3114085463298993e-05
+Train Epoch: 26 [130 / 203] loss = 1.3634836597537452e-05
+Train Epoch: 26 [140 / 203] loss = 1.3631889173253016e-05
+Train Epoch: 26 [150 / 203] loss = 1.3639279429546812e-05
+Train Epoch: 26 [160 / 203] loss = 1.5359672463753007e-05
+Train Epoch: 26 [170 / 203] loss = 1.4103315135633404e-05
+Train Epoch: 26 [180 / 203] loss = 1.3318192213773727e-05
+Train Epoch: 26 [190 / 203] loss = 1.3222487177699805e-05
+Train Epoch: 26 [200 / 203] loss = 1.4766681389036503e-05
+     Set12 :     11.png : 0.0506 second
+     Set12 :     08.png : 0.1203 second
+     Set12 :     02.png : 0.0731 second
+     Set12 :     06.png : 0.0866 second
+     Set12 :     10.png : 0.1352 second
+     Set12 :     01.png : 0.0152 second
+     Set12 :     07.png : 0.0154 second
+     Set12 :     03.png : 0.0164 second
+     Set12 :     12.png : 0.0465 second
+     Set12 :     09.png : 0.0467 second
+     Set12 :     04.png : 0.0191 second
+     Set12 :     05.png : 0.0272 second
+Datset: Set12      
+  PSNR = 29.95dB, SSIM = 0.9275
+epcoh = 26 , loss = 0.0015690281122390712 , time = 262.67441153526306 s
+Train Epoch: 27 [10 / 203] loss = 1.3936086642471226e-05
+Train Epoch: 27 [20 / 203] loss = 1.432387772100893e-05
+Train Epoch: 27 [30 / 203] loss = 1.5200248030437665e-05
+Train Epoch: 27 [40 / 203] loss = 1.5044730918651278e-05
+Train Epoch: 27 [50 / 203] loss = 1.4862187460742214e-05
+Train Epoch: 27 [60 / 203] loss = 1.7727115614847704e-05
+Train Epoch: 27 [70 / 203] loss = 1.2642425611953843e-05
+Train Epoch: 27 [80 / 203] loss = 1.5147629363292998e-05
+Train Epoch: 27 [90 / 203] loss = 1.4388703063807705e-05
+Train Epoch: 27 [100 / 203] loss = 1.4353628185662357e-05
+Train Epoch: 27 [110 / 203] loss = 1.4350670178166844e-05
+Train Epoch: 27 [120 / 203] loss = 1.5067204367369414e-05
+Train Epoch: 27 [130 / 203] loss = 1.355364326048981e-05
+Train Epoch: 27 [140 / 203] loss = 1.759505724873055e-05
+Train Epoch: 27 [150 / 203] loss = 1.342397564175454e-05
+Train Epoch: 27 [160 / 203] loss = 1.422212967141108e-05
+Train Epoch: 27 [170 / 203] loss = 1.3043294364417141e-05
+Train Epoch: 27 [180 / 203] loss = 1.639312408356504e-05
+Train Epoch: 27 [190 / 203] loss = 1.4192224691875956e-05
+Train Epoch: 27 [200 / 203] loss = 1.3862837063656611e-05
+     Set12 :     11.png : 0.0732 second
+     Set12 :     08.png : 0.1205 second
+     Set12 :     02.png : 0.0999 second
+     Set12 :     06.png : 0.0154 second
+     Set12 :     10.png : 0.0452 second
+     Set12 :     01.png : 0.0145 second
+     Set12 :     07.png : 0.0140 second
+     Set12 :     03.png : 0.0147 second
+     Set12 :     12.png : 0.0426 second
+     Set12 :     09.png : 0.0434 second
+     Set12 :     04.png : 0.0375 second
+     Set12 :     05.png : 0.0472 second
+Datset: Set12      
+  PSNR = 30.23dB, SSIM = 0.9275
+epcoh = 27 , loss = 0.0015745150657104595 , time = 263.1931416988373 s
+Train Epoch: 28 [10 / 203] loss = 1.5231771182946184e-05
+Train Epoch: 28 [20 / 203] loss = 1.3980268373746764e-05
+Train Epoch: 28 [30 / 203] loss = 1.379271059043028e-05
+Train Epoch: 28 [40 / 203] loss = 1.3874656393785369e-05
+Train Epoch: 28 [50 / 203] loss = 1.4153379015624524e-05
+Train Epoch: 28 [60 / 203] loss = 1.566936367784034e-05
+Train Epoch: 28 [70 / 203] loss = 1.2981514869765801e-05
+Train Epoch: 28 [80 / 203] loss = 1.7227150965481997e-05
+Train Epoch: 28 [90 / 203] loss = 1.7090661408887668e-05
+Train Epoch: 28 [100 / 203] loss = 1.4364485501904379e-05
+Train Epoch: 28 [110 / 203] loss = 1.5863677783107217e-05
+Train Epoch: 28 [120 / 203] loss = 1.5056390442292798e-05
+Train Epoch: 28 [130 / 203] loss = 1.3379210775548762e-05
+Train Epoch: 28 [140 / 203] loss = 1.5558337327092887e-05
+Train Epoch: 28 [150 / 203] loss = 1.4266197104007005e-05
+Train Epoch: 28 [160 / 203] loss = 1.7546258062462913e-05
+Train Epoch: 28 [170 / 203] loss = 1.412609126418829e-05
+Train Epoch: 28 [180 / 203] loss = 1.4634378550743514e-05
+Train Epoch: 28 [190 / 203] loss = 1.3824324758554047e-05
+Train Epoch: 28 [200 / 203] loss = 1.6448622442443263e-05
+     Set12 :     11.png : 0.0443 second
+     Set12 :     08.png : 0.0452 second
+     Set12 :     02.png : 0.0227 second
+     Set12 :     06.png : 0.0929 second
+     Set12 :     10.png : 0.1149 second
+     Set12 :     01.png : 0.0233 second
+     Set12 :     07.png : 0.0732 second
+     Set12 :     03.png : 0.0888 second
+     Set12 :     12.png : 0.0998 second
+     Set12 :     09.png : 0.1309 second
+     Set12 :     04.png : 0.0200 second
+     Set12 :     05.png : 0.0164 second
+Datset: Set12      
+  PSNR = 30.14dB, SSIM = 0.9269
+epcoh = 28 , loss = 0.0015974396930346863 , time = 260.51005482673645 s
+Train Epoch: 29 [10 / 203] loss = 2.0100970075211742e-05
+Train Epoch: 29 [20 / 203] loss = 1.3092832258817824e-05
+Train Epoch: 29 [30 / 203] loss = 1.5198672190308572e-05
+Train Epoch: 29 [40 / 203] loss = 1.4852726070041006e-05
+Train Epoch: 29 [50 / 203] loss = 1.343382861126553e-05
+Train Epoch: 29 [60 / 203] loss = 1.5560651875355026e-05
+Train Epoch: 29 [70 / 203] loss = 1.4039613729850812e-05
+Train Epoch: 29 [80 / 203] loss = 1.2692085213281892e-05
+Train Epoch: 29 [90 / 203] loss = 1.4911947602575475e-05
+Train Epoch: 29 [100 / 203] loss = 1.3317003719169984e-05
+Train Epoch: 29 [110 / 203] loss = 1.544470644809983e-05
+Train Epoch: 29 [120 / 203] loss = 1.3833377637307753e-05
+Train Epoch: 29 [130 / 203] loss = 1.5976905441758307e-05
+Train Epoch: 29 [140 / 203] loss = 1.527114072814584e-05
+Train Epoch: 29 [150 / 203] loss = 1.4855266040699049e-05
+Train Epoch: 29 [160 / 203] loss = 1.4316491697999565e-05
+Train Epoch: 29 [170 / 203] loss = 1.4962790406901729e-05
+Train Epoch: 29 [180 / 203] loss = 1.8431540493938055e-05
+Train Epoch: 29 [190 / 203] loss = 1.897045453502373e-05
+Train Epoch: 29 [200 / 203] loss = 1.9670188934965566e-05
+     Set12 :     11.png : 0.0448 second
+     Set12 :     08.png : 0.0435 second
+     Set12 :     02.png : 0.0152 second
+     Set12 :     06.png : 0.0163 second
+     Set12 :     10.png : 0.0569 second
+     Set12 :     01.png : 0.0201 second
+     Set12 :     07.png : 0.0813 second
+     Set12 :     03.png : 0.0532 second
+     Set12 :     12.png : 0.1302 second
+     Set12 :     09.png : 0.0778 second
+     Set12 :     04.png : 0.0158 second
+     Set12 :     05.png : 0.0157 second
+Datset: Set12      
+  PSNR = 29.88dB, SSIM = 0.9260
+epcoh = 29 , loss = 0.0016012883170512435 , time = 268.5383596420288 s
+Train Epoch: 30 [10 / 203] loss = 1.5115510376000946e-05
+Train Epoch: 30 [20 / 203] loss = 1.3321646573868664e-05
+Train Epoch: 30 [30 / 203] loss = 1.3462424447590655e-05
+Train Epoch: 30 [40 / 203] loss = 1.4073234474794431e-05
+Train Epoch: 30 [50 / 203] loss = 1.7994498326019806e-05
+Train Epoch: 30 [60 / 203] loss = 1.4247264797714623e-05
+Train Epoch: 30 [70 / 203] loss = 1.4633250380442901e-05
+Train Epoch: 30 [80 / 203] loss = 1.4123275071721186e-05
+Train Epoch: 30 [90 / 203] loss = 1.4597178563814272e-05
+Train Epoch: 30 [100 / 203] loss = 1.2373503043570302e-05
+Train Epoch: 30 [110 / 203] loss = 1.3288455507294698e-05
+Train Epoch: 30 [120 / 203] loss = 1.5372525773603807e-05
+Train Epoch: 30 [130 / 203] loss = 1.5982593917711215e-05
+Train Epoch: 30 [140 / 203] loss = 1.6078078822994773e-05
+Train Epoch: 30 [150 / 203] loss = 1.3579465237192133e-05
+Train Epoch: 30 [160 / 203] loss = 1.5142244625497949e-05
+Train Epoch: 30 [170 / 203] loss = 1.535024917261167e-05
+Train Epoch: 30 [180 / 203] loss = 1.426152673295953e-05
+Train Epoch: 30 [190 / 203] loss = 1.4861683699895036e-05
+Train Epoch: 30 [200 / 203] loss = 1.5115098689090122e-05
+     Set12 :     11.png : 0.0807 second
+     Set12 :     08.png : 0.1176 second
+     Set12 :     02.png : 0.0161 second
+     Set12 :     06.png : 0.0155 second
+     Set12 :     10.png : 0.0457 second
+     Set12 :     01.png : 0.0150 second
+     Set12 :     07.png : 0.0149 second
+     Set12 :     03.png : 0.0309 second
+     Set12 :     12.png : 0.1207 second
+     Set12 :     09.png : 0.0975 second
+     Set12 :     04.png : 0.0654 second
+     Set12 :     05.png : 0.0548 second
+Datset: Set12      
+  PSNR = 30.18dB, SSIM = 0.9281
+epcoh = 30 , loss = 0.0016043841697761946 , time = 267.61991333961487 s
+Train Epoch: 31 [10 / 203] loss = 1.4475397553972223e-05
+Train Epoch: 31 [20 / 203] loss = 1.4031161977486177e-05
+Train Epoch: 31 [30 / 203] loss = 1.4497023287483236e-05
+Train Epoch: 31 [40 / 203] loss = 1.3801839668303727e-05
+Train Epoch: 31 [50 / 203] loss = 1.32720832797614e-05
+Train Epoch: 31 [60 / 203] loss = 1.3726920058781451e-05
+Train Epoch: 31 [70 / 203] loss = 1.3814063277095556e-05
+Train Epoch: 31 [80 / 203] loss = 1.526187936013395e-05
+Train Epoch: 31 [90 / 203] loss = 1.501533393324776e-05
+Train Epoch: 31 [100 / 203] loss = 1.3672836675223978e-05
+Train Epoch: 31 [110 / 203] loss = 1.39004233377901e-05
+Train Epoch: 31 [120 / 203] loss = 1.3967709277163852e-05
+Train Epoch: 31 [130 / 203] loss = 1.603256572376598e-05
+Train Epoch: 31 [140 / 203] loss = 1.3594364281743765e-05
+Train Epoch: 31 [150 / 203] loss = 1.4309767125682398e-05
+Train Epoch: 31 [160 / 203] loss = 1.3865742155096747e-05
+Train Epoch: 31 [170 / 203] loss = 1.474898626011881e-05
+Train Epoch: 31 [180 / 203] loss = 1.3486193281344393e-05
+Train Epoch: 31 [190 / 203] loss = 1.689150654287501e-05
+Train Epoch: 31 [200 / 203] loss = 1.3587274588644505e-05
+     Set12 :     11.png : 0.0698 second
+     Set12 :     08.png : 0.1645 second
+     Set12 :     02.png : 0.0163 second
+     Set12 :     06.png : 0.0159 second
+     Set12 :     10.png : 0.0473 second
+     Set12 :     01.png : 0.0161 second
+     Set12 :     07.png : 0.0163 second
+     Set12 :     03.png : 0.0592 second
+     Set12 :     12.png : 0.0540 second
+     Set12 :     09.png : 0.0861 second
+     Set12 :     04.png : 0.0380 second
+     Set12 :     05.png : 0.0343 second
+Datset: Set12      
+  PSNR = 29.87dB, SSIM = 0.9263
+epcoh = 31 , loss = 0.0015851313929564406 , time = 269.75917410850525 s
+Train Epoch: 32 [10 / 203] loss = 1.9422675144266e-05
+Train Epoch: 32 [20 / 203] loss = 1.4677822632207112e-05
+Train Epoch: 32 [30 / 203] loss = 1.3981298120184379e-05
+Train Epoch: 32 [40 / 203] loss = 1.5545378185131334e-05
+Train Epoch: 32 [50 / 203] loss = 1.5128912954506549e-05
+Train Epoch: 32 [60 / 203] loss = 1.2575095223093575e-05
+Train Epoch: 32 [70 / 203] loss = 1.503554257479581e-05
+Train Epoch: 32 [80 / 203] loss = 1.6161903146315706e-05
+Train Epoch: 32 [90 / 203] loss = 1.3870732139118694e-05
+Train Epoch: 32 [100 / 203] loss = 1.3200607447122985e-05
+Train Epoch: 32 [110 / 203] loss = 1.4019395563412796e-05
+Train Epoch: 32 [120 / 203] loss = 1.562287692319263e-05
+Train Epoch: 32 [130 / 203] loss = 1.5112435953183608e-05
+Train Epoch: 32 [140 / 203] loss = 1.6729421490295366e-05
+Train Epoch: 32 [150 / 203] loss = 1.3407531448385932e-05
+Train Epoch: 32 [160 / 203] loss = 1.3192497532476078e-05
+Train Epoch: 32 [170 / 203] loss = 1.3876669320531867e-05
+Train Epoch: 32 [180 / 203] loss = 1.3354540252211419e-05
+Train Epoch: 32 [190 / 203] loss = 1.4402621044692668e-05
+Train Epoch: 32 [200 / 203] loss = 1.4232790139927105e-05
+     Set12 :     11.png : 0.0418 second
+     Set12 :     08.png : 0.0405 second
+     Set12 :     02.png : 0.0708 second
+     Set12 :     06.png : 0.1122 second
+     Set12 :     10.png : 0.0990 second
+     Set12 :     01.png : 0.0367 second
+     Set12 :     07.png : 0.0640 second
+     Set12 :     03.png : 0.0703 second
+     Set12 :     12.png : 0.0776 second
+     Set12 :     09.png : 0.0465 second
+     Set12 :     04.png : 0.0238 second
+     Set12 :     05.png : 0.0167 second
+Datset: Set12      
+  PSNR = 30.24dB, SSIM = 0.9279
+epcoh = 32 , loss = 0.001579854432654021 , time = 259.974396944046 s
+Train Epoch: 33 [10 / 203] loss = 1.3764283027161251e-05
+Train Epoch: 33 [20 / 203] loss = 1.553335248238661e-05
+Train Epoch: 33 [30 / 203] loss = 1.44323439929973e-05
+Train Epoch: 33 [40 / 203] loss = 1.5497297598895702e-05
+Train Epoch: 33 [50 / 203] loss = 1.4636318453333595e-05
+Train Epoch: 33 [60 / 203] loss = 1.4632743444632401e-05
+Train Epoch: 33 [70 / 203] loss = 1.91940777850422e-05
+Train Epoch: 33 [80 / 203] loss = 1.5912659000605346e-05
+Train Epoch: 33 [90 / 203] loss = 1.377920958806168e-05
+Train Epoch: 33 [100 / 203] loss = 1.3620445547117428e-05
+Train Epoch: 33 [110 / 203] loss = 1.2459488458592783e-05
+Train Epoch: 33 [120 / 203] loss = 1.4369278638200326e-05
+Train Epoch: 33 [130 / 203] loss = 1.597939461300319e-05
+Train Epoch: 33 [140 / 203] loss = 1.2754135638136755e-05
+Train Epoch: 33 [150 / 203] loss = 1.2740537270226262e-05
+Train Epoch: 33 [160 / 203] loss = 1.3970220673151991e-05
+Train Epoch: 33 [170 / 203] loss = 1.575316260145469e-05
+Train Epoch: 33 [180 / 203] loss = 1.3980732976712964e-05
+Train Epoch: 33 [190 / 203] loss = 1.540226883000948e-05
+Train Epoch: 33 [200 / 203] loss = 1.4213214374401353e-05
+     Set12 :     11.png : 0.0407 second
+     Set12 :     08.png : 0.0501 second
+     Set12 :     02.png : 0.0351 second
+     Set12 :     06.png : 0.0301 second
+     Set12 :     10.png : 0.0550 second
+     Set12 :     01.png : 0.0444 second
+     Set12 :     07.png : 0.0438 second
+     Set12 :     03.png : 0.0257 second
+     Set12 :     12.png : 0.0808 second
+     Set12 :     09.png : 0.0970 second
+     Set12 :     04.png : 0.0907 second
+     Set12 :     05.png : 0.0162 second
+Datset: Set12      
+  PSNR = 29.94dB, SSIM = 0.9272
+epcoh = 33 , loss = 0.0015810638507873995 , time = 262.9341917037964 s
+Train Epoch: 34 [10 / 203] loss = 1.3805820013989102e-05
+Train Epoch: 34 [20 / 203] loss = 1.656452871181748e-05
+Train Epoch: 34 [30 / 203] loss = 1.2428574899042195e-05
+Train Epoch: 34 [40 / 203] loss = 1.4692883599888194e-05
+Train Epoch: 34 [50 / 203] loss = 1.385055524720387e-05
+Train Epoch: 34 [60 / 203] loss = 1.4502502215856856e-05
+Train Epoch: 34 [70 / 203] loss = 1.3749156443571502e-05
+Train Epoch: 34 [80 / 203] loss = 1.4738731128586964e-05
+Train Epoch: 34 [90 / 203] loss = 1.3714885889467869e-05
+Train Epoch: 34 [100 / 203] loss = 1.3512001499872316e-05
+Train Epoch: 34 [110 / 203] loss = 1.3539623680778524e-05
+Train Epoch: 34 [120 / 203] loss = 1.2294487731361932e-05
+Train Epoch: 34 [130 / 203] loss = 1.3639470985667272e-05
+Train Epoch: 34 [140 / 203] loss = 1.6047796022824266e-05
+Train Epoch: 34 [150 / 203] loss = 1.4298198617656123e-05
+Train Epoch: 34 [160 / 203] loss = 1.412939110940153e-05
+Train Epoch: 34 [170 / 203] loss = 1.6000879589806904e-05
+Train Epoch: 34 [180 / 203] loss = 1.3049758589741858e-05
+Train Epoch: 34 [190 / 203] loss = 1.6963662875985558e-05
+Train Epoch: 34 [200 / 203] loss = 1.4227213846011595e-05
+     Set12 :     11.png : 0.0422 second
+     Set12 :     08.png : 0.0720 second
+     Set12 :     02.png : 0.0628 second
+     Set12 :     06.png : 0.0156 second
+     Set12 :     10.png : 0.1164 second
+     Set12 :     01.png : 0.0624 second
+     Set12 :     07.png : 0.0494 second
+     Set12 :     03.png : 0.0808 second
+     Set12 :     12.png : 0.0538 second
+     Set12 :     09.png : 0.0503 second
+     Set12 :     04.png : 0.0158 second
+     Set12 :     05.png : 0.0155 second
+Datset: Set12      
+  PSNR = 29.72dB, SSIM = 0.9251
+epcoh = 34 , loss = 0.0015864361506505993 , time = 264.9085500240326 s
+Train Epoch: 35 [10 / 203] loss = 1.2868322135711258e-05
+Train Epoch: 35 [20 / 203] loss = 1.4755258929323066e-05
+Train Epoch: 35 [30 / 203] loss = 1.300034663555297e-05
+Train Epoch: 35 [40 / 203] loss = 1.4623754065145146e-05
+Train Epoch: 35 [50 / 203] loss = 1.5802010470493273e-05
+Train Epoch: 35 [60 / 203] loss = 1.6112776938825847e-05
+Train Epoch: 35 [70 / 203] loss = 1.567766938189214e-05
+Train Epoch: 35 [80 / 203] loss = 1.5297632622109218e-05
+Train Epoch: 35 [90 / 203] loss = 1.3459133068946274e-05
+Train Epoch: 35 [100 / 203] loss = 1.3216819868169047e-05
+Train Epoch: 35 [110 / 203] loss = 1.2958402195098725e-05
+Train Epoch: 35 [120 / 203] loss = 1.4423798050054094e-05
+Train Epoch: 35 [130 / 203] loss = 1.3779480518265204e-05
+Train Epoch: 35 [140 / 203] loss = 1.3448246119713242e-05
+Train Epoch: 35 [150 / 203] loss = 1.316889062185179e-05
+Train Epoch: 35 [160 / 203] loss = 1.2840696779841726e-05
+Train Epoch: 35 [170 / 203] loss = 1.4198310038244183e-05
+Train Epoch: 35 [180 / 203] loss = 1.313519367778843e-05
+Train Epoch: 35 [190 / 203] loss = 1.4597629408606075e-05
+Train Epoch: 35 [200 / 203] loss = 1.4619184234602885e-05
+     Set12 :     11.png : 0.0450 second
+     Set12 :     08.png : 0.1108 second
+     Set12 :     02.png : 0.0698 second
+     Set12 :     06.png : 0.0984 second
+     Set12 :     10.png : 0.1159 second
+     Set12 :     01.png : 0.1180 second
+     Set12 :     07.png : 0.0167 second
+     Set12 :     03.png : 0.0150 second
+     Set12 :     12.png : 0.0464 second
+     Set12 :     09.png : 0.0478 second
+     Set12 :     04.png : 0.0163 second
+     Set12 :     05.png : 0.0857 second
+Datset: Set12      
+  PSNR = 30.11dB, SSIM = 0.9271
+epcoh = 35 , loss = 0.001562026535215893 , time = 264.5116138458252 s
+Train Epoch: 36 [10 / 203] loss = 1.5555407894267278e-05
+Train Epoch: 36 [20 / 203] loss = 1.396787225861441e-05
+Train Epoch: 36 [30 / 203] loss = 1.4937885994599624e-05
+Train Epoch: 36 [40 / 203] loss = 1.341760243204507e-05
+Train Epoch: 36 [50 / 203] loss = 1.3419438619166613e-05
+Train Epoch: 36 [60 / 203] loss = 1.3239289083602754e-05
+Train Epoch: 36 [70 / 203] loss = 1.3849076772616668e-05
+Train Epoch: 36 [80 / 203] loss = 1.3814258008179339e-05
+Train Epoch: 36 [90 / 203] loss = 1.3927813746373762e-05
+Train Epoch: 36 [100 / 203] loss = 1.4579160646958784e-05
+Train Epoch: 36 [110 / 203] loss = 1.4348959931257096e-05
+Train Epoch: 36 [120 / 203] loss = 1.6231787264008413e-05
+Train Epoch: 36 [130 / 203] loss = 1.4060230883346363e-05
+Train Epoch: 36 [140 / 203] loss = 1.4891172759234905e-05
+Train Epoch: 36 [150 / 203] loss = 1.2539093255658041e-05
+Train Epoch: 36 [160 / 203] loss = 1.435697353868322e-05
+Train Epoch: 36 [170 / 203] loss = 1.3311908961358396e-05
+Train Epoch: 36 [180 / 203] loss = 1.2008353686806831e-05
+Train Epoch: 36 [190 / 203] loss = 1.5995555176314983e-05
+Train Epoch: 36 [200 / 203] loss = 1.4324358198791743e-05
+     Set12 :     11.png : 0.0684 second
+     Set12 :     08.png : 0.0450 second
+     Set12 :     02.png : 0.0160 second
+     Set12 :     06.png : 0.0161 second
+     Set12 :     10.png : 0.0984 second
+     Set12 :     01.png : 0.0646 second
+     Set12 :     07.png : 0.1081 second
+     Set12 :     03.png : 0.0612 second
+     Set12 :     12.png : 0.0803 second
+     Set12 :     09.png : 0.1355 second
+     Set12 :     04.png : 0.0164 second
+     Set12 :     05.png : 0.0754 second
+Datset: Set12      
+  PSNR = 30.18dB, SSIM = 0.9270
+epcoh = 36 , loss = 0.0015328903952062938 , time = 272.27917766571045 s
+Train Epoch: 37 [10 / 203] loss = 1.432599224658175e-05
+Train Epoch: 37 [20 / 203] loss = 1.5035467433997177e-05
+Train Epoch: 37 [30 / 203] loss = 1.41425216993825e-05
+Train Epoch: 37 [40 / 203] loss = 1.3771203388883308e-05
+Train Epoch: 37 [50 / 203] loss = 1.4179395723410628e-05
+Train Epoch: 37 [60 / 203] loss = 1.3307239648632027e-05
+Train Epoch: 37 [70 / 203] loss = 1.1913132303479042e-05
+Train Epoch: 37 [80 / 203] loss = 1.3861732176420363e-05
+Train Epoch: 37 [90 / 203] loss = 1.423716206442226e-05
+Train Epoch: 37 [100 / 203] loss = 1.4687125274742191e-05
+Train Epoch: 37 [110 / 203] loss = 1.4057276050814173e-05
+Train Epoch: 37 [120 / 203] loss = 1.3887128708037463e-05
+Train Epoch: 37 [130 / 203] loss = 1.500514547594569e-05
+Train Epoch: 37 [140 / 203] loss = 1.203340520574288e-05
+Train Epoch: 37 [150 / 203] loss = 1.298443583602255e-05
+Train Epoch: 37 [160 / 203] loss = 1.3103201689029283e-05
+Train Epoch: 37 [170 / 203] loss = 1.6717659309506417e-05
+Train Epoch: 37 [180 / 203] loss = 1.3454878618094054e-05
+Train Epoch: 37 [190 / 203] loss = 1.2488635680214924e-05
+Train Epoch: 37 [200 / 203] loss = 1.237846233628013e-05
+     Set12 :     11.png : 0.0824 second
+     Set12 :     08.png : 0.0492 second
+     Set12 :     02.png : 0.0156 second
+     Set12 :     06.png : 0.0154 second
+     Set12 :     10.png : 0.0450 second
+     Set12 :     01.png : 0.0737 second
+     Set12 :     07.png : 0.0705 second
+     Set12 :     03.png : 0.0527 second
+     Set12 :     12.png : 0.0642 second
+     Set12 :     09.png : 0.1064 second
+     Set12 :     04.png : 0.0527 second
+     Set12 :     05.png : 0.0823 second
+Datset: Set12      
+  PSNR = 29.86dB, SSIM = 0.9272
+epcoh = 37 , loss = 0.001540103154211062 , time = 263.7662603855133 s
+Train Epoch: 38 [10 / 203] loss = 1.3740120497955517e-05
+Train Epoch: 38 [20 / 203] loss = 1.1390328026292e-05
+Train Epoch: 38 [30 / 203] loss = 1.3863939834250645e-05
+Train Epoch: 38 [40 / 203] loss = 1.4195607086135583e-05
+Train Epoch: 38 [50 / 203] loss = 1.3450485527176749e-05
+Train Epoch: 38 [60 / 203] loss = 1.3591943901370872e-05
+Train Epoch: 38 [70 / 203] loss = 1.3456561348655006e-05
+Train Epoch: 38 [80 / 203] loss = 1.4918899713930758e-05
+Train Epoch: 38 [90 / 203] loss = 1.5289469791406933e-05
+Train Epoch: 38 [100 / 203] loss = 1.4416672374037178e-05
+Train Epoch: 38 [110 / 203] loss = 1.4996748756278645e-05
+Train Epoch: 38 [120 / 203] loss = 1.537414500489831e-05
+Train Epoch: 38 [130 / 203] loss = 1.3321839188310234e-05
+Train Epoch: 38 [140 / 203] loss = 1.4873213050040332e-05
+Train Epoch: 38 [150 / 203] loss = 1.3026529499752955e-05
+Train Epoch: 38 [160 / 203] loss = 1.398428152738647e-05
+Train Epoch: 38 [170 / 203] loss = 1.2146811720661141e-05
+Train Epoch: 38 [180 / 203] loss = 1.3520625758577477e-05
+Train Epoch: 38 [190 / 203] loss = 1.24803966503929e-05
+Train Epoch: 38 [200 / 203] loss = 1.3760507995770736e-05
+     Set12 :     11.png : 0.1135 second
+     Set12 :     08.png : 0.1272 second
+     Set12 :     02.png : 0.0178 second
+     Set12 :     06.png : 0.0171 second
+     Set12 :     10.png : 0.0477 second
+     Set12 :     01.png : 0.0160 second
+     Set12 :     07.png : 0.0154 second
+     Set12 :     03.png : 0.0153 second
+     Set12 :     12.png : 0.0594 second
+     Set12 :     09.png : 0.1184 second
+     Set12 :     04.png : 0.1098 second
+     Set12 :     05.png : 0.1095 second
+Datset: Set12      
+  PSNR = 29.32dB, SSIM = 0.9262
+epcoh = 38 , loss = 0.0015236400675689204 , time = 263.4014890193939 s
+Train Epoch: 39 [10 / 203] loss = 1.3626358387145129e-05
+Train Epoch: 39 [20 / 203] loss = 1.3009076726368882e-05
+Train Epoch: 39 [30 / 203] loss = 1.3400185641578653e-05
+Train Epoch: 39 [40 / 203] loss = 1.1942137710072778e-05
+Train Epoch: 39 [50 / 203] loss = 1.2640435968271711e-05
+Train Epoch: 39 [60 / 203] loss = 1.3390161224048245e-05
+Train Epoch: 39 [70 / 203] loss = 1.4468553391369907e-05
+Train Epoch: 39 [80 / 203] loss = 1.2379210569303143e-05
+Train Epoch: 39 [90 / 203] loss = 1.2382097669284452e-05
+Train Epoch: 39 [100 / 203] loss = 1.431158214638179e-05
+Train Epoch: 39 [110 / 203] loss = 1.5241484454070979e-05
+Train Epoch: 39 [120 / 203] loss = 1.2385175267065114e-05
+Train Epoch: 39 [130 / 203] loss = 1.3185908425260674e-05
+Train Epoch: 39 [140 / 203] loss = 1.3705819252539765e-05
+Train Epoch: 39 [150 / 203] loss = 1.284057613123547e-05
+Train Epoch: 39 [160 / 203] loss = 1.4156417455524206e-05
+Train Epoch: 39 [170 / 203] loss = 1.3144707984545015e-05
+Train Epoch: 39 [180 / 203] loss = 1.3340474106371403e-05
+Train Epoch: 39 [190 / 203] loss = 1.362045401368629e-05
+Train Epoch: 39 [200 / 203] loss = 1.4697569845752282e-05
+     Set12 :     11.png : 0.1238 second
+     Set12 :     08.png : 0.0521 second
+     Set12 :     02.png : 0.1139 second
+     Set12 :     06.png : 0.1772 second
+     Set12 :     10.png : 0.1375 second
+     Set12 :     01.png : 0.0164 second
+     Set12 :     07.png : 0.0261 second
+     Set12 :     03.png : 0.0171 second
+     Set12 :     12.png : 0.0464 second
+     Set12 :     09.png : 0.0468 second
+     Set12 :     04.png : 0.0956 second
+     Set12 :     05.png : 0.0888 second
+Datset: Set12      
+  PSNR = 30.23dB, SSIM = 0.9281
+epcoh = 39 , loss = 0.0015184529265618236 , time = 264.1318919658661 s
+Train Epoch: 40 [10 / 203] loss = 1.4800545547834852e-05
+Train Epoch: 40 [20 / 203] loss = 1.1859158985316753e-05
+Train Epoch: 40 [30 / 203] loss = 1.2985344933853909e-05
+Train Epoch: 40 [40 / 203] loss = 1.4339302751150998e-05
+Train Epoch: 40 [50 / 203] loss = 1.4352325392379002e-05
+Train Epoch: 40 [60 / 203] loss = 1.3551629275422204e-05
+Train Epoch: 40 [70 / 203] loss = 1.3357108797539363e-05
+Train Epoch: 40 [80 / 203] loss = 1.2413324491882867e-05
+Train Epoch: 40 [90 / 203] loss = 1.4415204482661052e-05
+Train Epoch: 40 [100 / 203] loss = 1.8149055540561677e-05
+Train Epoch: 40 [110 / 203] loss = 1.3410316949540918e-05
+Train Epoch: 40 [120 / 203] loss = 1.3090496544133534e-05
+Train Epoch: 40 [130 / 203] loss = 1.6262557950209487e-05
+Train Epoch: 40 [140 / 203] loss = 1.3075233437120914e-05
+Train Epoch: 40 [150 / 203] loss = 1.2750941625034267e-05
+Train Epoch: 40 [160 / 203] loss = 1.3638641261918978e-05
+Train Epoch: 40 [170 / 203] loss = 1.4046179554001852e-05
+Train Epoch: 40 [180 / 203] loss = 1.456955320794474e-05
+Train Epoch: 40 [190 / 203] loss = 1.3279487294229595e-05
+Train Epoch: 40 [200 / 203] loss = 1.3020330913026224e-05
+     Set12 :     11.png : 0.1822 second
+     Set12 :     08.png : 0.0632 second
+     Set12 :     02.png : 0.0570 second
+     Set12 :     06.png : 0.0392 second
+     Set12 :     10.png : 0.0899 second
+     Set12 :     01.png : 0.0981 second
+     Set12 :     07.png : 0.0166 second
+     Set12 :     03.png : 0.0156 second
+     Set12 :     12.png : 0.0456 second
+     Set12 :     09.png : 0.0454 second
+     Set12 :     04.png : 0.0178 second
+     Set12 :     05.png : 0.0635 second
+Datset: Set12      
+  PSNR = 30.03dB, SSIM = 0.9271
+epcoh = 40 , loss = 0.0015072349035708701 , time = 263.12570786476135 s
+Train Epoch: 41 [10 / 203] loss = 1.4043381352993576e-05
+Train Epoch: 41 [20 / 203] loss = 1.3282242104072463e-05
+Train Epoch: 41 [30 / 203] loss = 1.383469630540772e-05
+Train Epoch: 41 [40 / 203] loss = 1.3908098282461816e-05
+Train Epoch: 41 [50 / 203] loss = 1.2906007892028852e-05
+Train Epoch: 41 [60 / 203] loss = 1.3008588840338317e-05
+Train Epoch: 41 [70 / 203] loss = 1.2771527028896592e-05
+Train Epoch: 41 [80 / 203] loss = 1.4374211472882466e-05
+Train Epoch: 41 [90 / 203] loss = 1.3758322562683713e-05
+Train Epoch: 41 [100 / 203] loss = 1.3633308381858198e-05
+Train Epoch: 41 [110 / 203] loss = 1.3873220252042467e-05
+Train Epoch: 41 [120 / 203] loss = 1.3387919699942523e-05
+Train Epoch: 41 [130 / 203] loss = 1.2767579491165552e-05
+Train Epoch: 41 [140 / 203] loss = 1.3487598731775176e-05
+Train Epoch: 41 [150 / 203] loss = 1.2628280092030764e-05
+Train Epoch: 41 [160 / 203] loss = 1.3444592795250091e-05
+Train Epoch: 41 [170 / 203] loss = 1.2114857831461863e-05
+Train Epoch: 41 [180 / 203] loss = 1.3142714107578452e-05
+Train Epoch: 41 [190 / 203] loss = 1.287574837492271e-05
+Train Epoch: 41 [200 / 203] loss = 1.4272660271010616e-05
+     Set12 :     11.png : 0.0425 second
+     Set12 :     08.png : 0.0423 second
+     Set12 :     02.png : 0.0311 second
+     Set12 :     06.png : 0.0537 second
+     Set12 :     10.png : 0.1720 second
+     Set12 :     01.png : 0.0887 second
+     Set12 :     07.png : 0.0599 second
+     Set12 :     03.png : 0.1024 second
+     Set12 :     12.png : 0.1223 second
+     Set12 :     09.png : 0.0443 second
+     Set12 :     04.png : 0.0166 second
+     Set12 :     05.png : 0.0158 second
+Datset: Set12      
+  PSNR = 29.79dB, SSIM = 0.9275
+epcoh = 41 , loss = 0.0014987061920763898 , time = 264.00145268440247 s
+Train Epoch: 42 [10 / 203] loss = 1.217613144862381e-05
+Train Epoch: 42 [20 / 203] loss = 1.4336405067958615e-05
+Train Epoch: 42 [30 / 203] loss = 1.2672397265718741e-05
+Train Epoch: 42 [40 / 203] loss = 1.4723838433961977e-05
+Train Epoch: 42 [50 / 203] loss = 1.3969362374733795e-05
+Train Epoch: 42 [60 / 203] loss = 1.3034775937822732e-05
+Train Epoch: 42 [70 / 203] loss = 1.523825763301416e-05
+Train Epoch: 42 [80 / 203] loss = 1.4129771046679129e-05
+Train Epoch: 42 [90 / 203] loss = 1.4878222083842212e-05
+Train Epoch: 42 [100 / 203] loss = 1.331893727183342e-05
+Train Epoch: 42 [110 / 203] loss = 1.3004220090806484e-05
+Train Epoch: 42 [120 / 203] loss = 1.4101202726702798e-05
+Train Epoch: 42 [130 / 203] loss = 1.2794175100597468e-05
+Train Epoch: 42 [140 / 203] loss = 1.3716480779376897e-05
+Train Epoch: 42 [150 / 203] loss = 1.3554135379804807e-05
+Train Epoch: 42 [160 / 203] loss = 1.2792465912008827e-05
+Train Epoch: 42 [170 / 203] loss = 1.4058202081783251e-05
+Train Epoch: 42 [180 / 203] loss = 1.5828194393014365e-05
+Train Epoch: 42 [190 / 203] loss = 1.4111120253801347e-05
+Train Epoch: 42 [200 / 203] loss = 1.3426372739063068e-05
+     Set12 :     11.png : 0.0888 second
+     Set12 :     08.png : 0.1130 second
+     Set12 :     02.png : 0.0815 second
+     Set12 :     06.png : 0.0523 second
+     Set12 :     10.png : 0.0937 second
+     Set12 :     01.png : 0.0160 second
+     Set12 :     07.png : 0.0148 second
+     Set12 :     03.png : 0.0152 second
+     Set12 :     12.png : 0.0455 second
+     Set12 :     09.png : 0.0434 second
+     Set12 :     04.png : 0.0605 second
+     Set12 :     05.png : 0.0787 second
+Datset: Set12      
+  PSNR = 30.10dB, SSIM = 0.9276
+epcoh = 42 , loss = 0.0015095051285108835 , time = 262.74614930152893 s
+Train Epoch: 43 [10 / 203] loss = 1.3093329669738358e-05
+Train Epoch: 43 [20 / 203] loss = 1.4256443616680124e-05
+Train Epoch: 43 [30 / 203] loss = 1.3815925922244787e-05
+Train Epoch: 43 [40 / 203] loss = 1.3101787772029638e-05
+Train Epoch: 43 [50 / 203] loss = 1.7934343354268508e-05
+Train Epoch: 43 [60 / 203] loss = 1.5892630273645574e-05
+Train Epoch: 43 [70 / 203] loss = 1.5041651204228402e-05
+Train Epoch: 43 [80 / 203] loss = 1.3877142390066927e-05
+Train Epoch: 43 [90 / 203] loss = 1.2671016156673431e-05
+Train Epoch: 43 [100 / 203] loss = 1.3866398314183408e-05
+Train Epoch: 43 [110 / 203] loss = 1.2548893309113654e-05
+Train Epoch: 43 [120 / 203] loss = 1.2295721733773296e-05
+Train Epoch: 43 [130 / 203] loss = 1.3124335303225301e-05
+Train Epoch: 43 [140 / 203] loss = 1.2737485072152181e-05
+Train Epoch: 43 [150 / 203] loss = 1.3608897147192196e-05
+Train Epoch: 43 [160 / 203] loss = 1.321157059547576e-05
+Train Epoch: 43 [170 / 203] loss = 1.344485737552697e-05
+Train Epoch: 43 [180 / 203] loss = 1.2715183071453463e-05
+Train Epoch: 43 [190 / 203] loss = 1.3454432006586681e-05
+Train Epoch: 43 [200 / 203] loss = 1.3045399365099994e-05
+     Set12 :     11.png : 0.0480 second
+     Set12 :     08.png : 0.0510 second
+     Set12 :     02.png : 0.0683 second
+     Set12 :     06.png : 0.0658 second
+     Set12 :     10.png : 0.1078 second
+     Set12 :     01.png : 0.1316 second
+     Set12 :     07.png : 0.0470 second
+     Set12 :     03.png : 0.0159 second
+     Set12 :     12.png : 0.0471 second
+     Set12 :     09.png : 0.0460 second
+     Set12 :     04.png : 0.0161 second
+     Set12 :     05.png : 0.0182 second
+Datset: Set12      
+  PSNR = 30.18dB, SSIM = 0.9275
+epcoh = 43 , loss = 0.0015071271201870932 , time = 265.1451199054718 s
+Train Epoch: 44 [10 / 203] loss = 1.3071026610718533e-05
+Train Epoch: 44 [20 / 203] loss = 1.4146602585573089e-05
+Train Epoch: 44 [30 / 203] loss = 1.2747612146830016e-05
+Train Epoch: 44 [40 / 203] loss = 1.3329735322093422e-05
+Train Epoch: 44 [50 / 203] loss = 1.460565042427995e-05
+Train Epoch: 44 [60 / 203] loss = 1.2796873819421639e-05
+Train Epoch: 44 [70 / 203] loss = 1.360352828421376e-05
+Train Epoch: 44 [80 / 203] loss = 1.4517326119609855e-05
+Train Epoch: 44 [90 / 203] loss = 1.3281251515515826e-05
+Train Epoch: 44 [100 / 203] loss = 1.4353485312312841e-05
+Train Epoch: 44 [110 / 203] loss = 1.4699252576313235e-05
+Train Epoch: 44 [120 / 203] loss = 1.2586332476613196e-05
+Train Epoch: 44 [130 / 203] loss = 1.3327761553227902e-05
+Train Epoch: 44 [140 / 203] loss = 1.5505137641660193e-05
+Train Epoch: 44 [150 / 203] loss = 1.7038139048963785e-05
+Train Epoch: 44 [160 / 203] loss = 1.2899015564471483e-05
+Train Epoch: 44 [170 / 203] loss = 1.2613957832482728e-05
+Train Epoch: 44 [180 / 203] loss = 1.3806228525936604e-05
+Train Epoch: 44 [190 / 203] loss = 1.3511325232684612e-05
+Train Epoch: 44 [200 / 203] loss = 1.3226231517778202e-05
+     Set12 :     11.png : 0.0428 second
+     Set12 :     08.png : 0.0801 second
+     Set12 :     02.png : 0.0157 second
+     Set12 :     06.png : 0.0989 second
+     Set12 :     10.png : 0.0782 second
+     Set12 :     01.png : 0.0733 second
+     Set12 :     07.png : 0.0845 second
+     Set12 :     03.png : 0.0544 second
+     Set12 :     12.png : 0.0671 second
+     Set12 :     09.png : 0.1157 second
+     Set12 :     04.png : 0.0154 second
+     Set12 :     05.png : 0.0154 second
+Datset: Set12      
+  PSNR = 30.16dB, SSIM = 0.9270
+epcoh = 44 , loss = 0.0015078442242326849 , time = 266.9055109024048 s
+Train Epoch: 45 [10 / 203] loss = 1.3485292650081894e-05
+Train Epoch: 45 [20 / 203] loss = 1.3847533740441907e-05
+Train Epoch: 45 [30 / 203] loss = 1.4471363233910365e-05
+Train Epoch: 45 [40 / 203] loss = 1.2089747046543794e-05
+Train Epoch: 45 [50 / 203] loss = 1.3966729271818291e-05
+Train Epoch: 45 [60 / 203] loss = 1.4000504531643607e-05
+Train Epoch: 45 [70 / 203] loss = 1.3987153810872272e-05
+Train Epoch: 45 [80 / 203] loss = 1.4278599569066004e-05
+Train Epoch: 45 [90 / 203] loss = 1.4778563160110604e-05
+Train Epoch: 45 [100 / 203] loss = 1.4501037499444051e-05
+Train Epoch: 45 [110 / 203] loss = 1.3004062400961464e-05
+Train Epoch: 45 [120 / 203] loss = 1.3761683790521188e-05
+Train Epoch: 45 [130 / 203] loss = 1.2454268818890506e-05
+Train Epoch: 45 [140 / 203] loss = 1.437092644416473e-05
+Train Epoch: 45 [150 / 203] loss = 1.3024202251637524e-05
+Train Epoch: 45 [160 / 203] loss = 1.3762566430324858e-05
+Train Epoch: 45 [170 / 203] loss = 1.2929074000567197e-05
+Train Epoch: 45 [180 / 203] loss = 1.3034700797024099e-05
+Train Epoch: 45 [190 / 203] loss = 1.4006118925118989e-05
+Train Epoch: 45 [200 / 203] loss = 1.3870927928523583e-05
+     Set12 :     11.png : 0.0908 second
+     Set12 :     08.png : 0.0910 second
+     Set12 :     02.png : 0.0159 second
+     Set12 :     06.png : 0.0157 second
+     Set12 :     10.png : 0.0468 second
+     Set12 :     01.png : 0.0160 second
+     Set12 :     07.png : 0.0157 second
+     Set12 :     03.png : 0.0158 second
+     Set12 :     12.png : 0.0467 second
+     Set12 :     09.png : 0.0882 second
+     Set12 :     04.png : 0.0886 second
+     Set12 :     05.png : 0.0590 second
+Datset: Set12      
+  PSNR = 29.91dB, SSIM = 0.9274
+epcoh = 45 , loss = 0.0014833663527170206 , time = 263.52270579338074 s
+Train Epoch: 46 [10 / 203] loss = 1.3453019147908146e-05
+Train Epoch: 46 [20 / 203] loss = 1.5335508876226166e-05
+Train Epoch: 46 [30 / 203] loss = 1.4624363658103076e-05
+Train Epoch: 46 [40 / 203] loss = 1.3029779603874141e-05
+Train Epoch: 46 [50 / 203] loss = 1.2998132627796042e-05
+Train Epoch: 46 [60 / 203] loss = 1.295070502568375e-05
+Train Epoch: 46 [70 / 203] loss = 1.304474003105001e-05
+Train Epoch: 46 [80 / 203] loss = 1.3212779198180545e-05
+Train Epoch: 46 [90 / 203] loss = 1.1917720125480132e-05
+Train Epoch: 46 [100 / 203] loss = 1.2295445511964234e-05
+Train Epoch: 46 [110 / 203] loss = 1.2856318657709794e-05
+Train Epoch: 46 [120 / 203] loss = 1.4427483124150472e-05
+Train Epoch: 46 [130 / 203] loss = 1.3544017830016939e-05
+Train Epoch: 46 [140 / 203] loss = 1.4430761802941561e-05
+Train Epoch: 46 [150 / 203] loss = 1.3402945743027059e-05
+Train Epoch: 46 [160 / 203] loss = 1.6984690658070823e-05
+Train Epoch: 46 [170 / 203] loss = 1.4633675825528123e-05
+Train Epoch: 46 [180 / 203] loss = 1.2541700958866965e-05
+Train Epoch: 46 [190 / 203] loss = 1.2284274932674386e-05
+Train Epoch: 46 [200 / 203] loss = 1.2882413681257855e-05
+     Set12 :     11.png : 0.1407 second
+     Set12 :     08.png : 0.0437 second
+     Set12 :     02.png : 0.0163 second
+     Set12 :     06.png : 0.0179 second
+     Set12 :     10.png : 0.0473 second
+     Set12 :     01.png : 0.0529 second
+     Set12 :     07.png : 0.0161 second
+     Set12 :     03.png : 0.0502 second
+     Set12 :     12.png : 0.0452 second
+     Set12 :     09.png : 0.1283 second
+     Set12 :     04.png : 0.0894 second
+     Set12 :     05.png : 0.0787 second
+Datset: Set12      
+  PSNR = 30.19dB, SSIM = 0.9280
+epcoh = 46 , loss = 0.0014736357378989018 , time = 265.59755396842957 s
+Train Epoch: 47 [10 / 203] loss = 1.3329128904098815e-05
+Train Epoch: 47 [20 / 203] loss = 1.3320361772044138e-05
+Train Epoch: 47 [30 / 203] loss = 1.3315446928820826e-05
+Train Epoch: 47 [40 / 203] loss = 1.2459863104264844e-05
+Train Epoch: 47 [50 / 203] loss = 1.288751478899609e-05
+Train Epoch: 47 [60 / 203] loss = 1.3468754266134718e-05
+Train Epoch: 47 [70 / 203] loss = 1.2743015858260068e-05
+Train Epoch: 47 [80 / 203] loss = 1.2110949451611801e-05
+Train Epoch: 47 [90 / 203] loss = 1.2466522060673345e-05
+Train Epoch: 47 [100 / 203] loss = 1.4535413885658438e-05
+Train Epoch: 47 [110 / 203] loss = 1.3199801006439058e-05
+Train Epoch: 47 [120 / 203] loss = 1.3509001159532504e-05
+Train Epoch: 47 [130 / 203] loss = 1.3860854828222232e-05
+Train Epoch: 47 [140 / 203] loss = 1.3133038936013525e-05
+Train Epoch: 47 [150 / 203] loss = 1.3969848144122145e-05
+Train Epoch: 47 [160 / 203] loss = 1.227844993329861e-05
+Train Epoch: 47 [170 / 203] loss = 1.377573088658127e-05
+Train Epoch: 47 [180 / 203] loss = 1.399098810824481e-05
+Train Epoch: 47 [190 / 203] loss = 1.4338469852439383e-05
+Train Epoch: 47 [200 / 203] loss = 1.4258699957281351e-05
+     Set12 :     11.png : 0.0595 second
+     Set12 :     08.png : 0.0948 second
+     Set12 :     02.png : 0.0218 second
+     Set12 :     06.png : 0.0267 second
+     Set12 :     10.png : 0.1082 second
+     Set12 :     01.png : 0.0773 second
+     Set12 :     07.png : 0.0830 second
+     Set12 :     03.png : 0.0162 second
+     Set12 :     12.png : 0.0478 second
+     Set12 :     09.png : 0.1008 second
+     Set12 :     04.png : 0.0475 second
+     Set12 :     05.png : 0.0476 second
+Datset: Set12      
+  PSNR = 30.10dB, SSIM = 0.9271
+epcoh = 47 , loss = 0.0014830156661836164 , time = 264.36288475990295 s
+Train Epoch: 48 [10 / 203] loss = 1.3478863349353726e-05
+Train Epoch: 48 [20 / 203] loss = 1.4627674086527391e-05
+Train Epoch: 48 [30 / 203] loss = 1.4136409894986586e-05
+Train Epoch: 48 [40 / 203] loss = 1.5035466375676069e-05
+Train Epoch: 48 [50 / 203] loss = 1.3392710719596256e-05
+Train Epoch: 48 [60 / 203] loss = 1.312355108728463e-05
+Train Epoch: 48 [70 / 203] loss = 1.3403574385764924e-05
+Train Epoch: 48 [80 / 203] loss = 1.3029636730524627e-05
+Train Epoch: 48 [90 / 203] loss = 1.3065976302393458e-05
+Train Epoch: 48 [100 / 203] loss = 1.4405113390900871e-05
+Train Epoch: 48 [110 / 203] loss = 1.2631029610268095e-05
+Train Epoch: 48 [120 / 203] loss = 1.3566412962973119e-05
+Train Epoch: 48 [130 / 203] loss = 1.3080020223490217e-05
+Train Epoch: 48 [140 / 203] loss = 1.3008026871830226e-05
+Train Epoch: 48 [150 / 203] loss = 1.3174972793256694e-05
+Train Epoch: 48 [160 / 203] loss = 1.2918055819516832e-05
+Train Epoch: 48 [170 / 203] loss = 1.4174903150309216e-05
+Train Epoch: 48 [180 / 203] loss = 1.3837166426872664e-05
+Train Epoch: 48 [190 / 203] loss = 1.2869536030021581e-05
+Train Epoch: 48 [200 / 203] loss = 1.3371979267421094e-05
+     Set12 :     11.png : 0.0570 second
+     Set12 :     08.png : 0.0911 second
+     Set12 :     02.png : 0.0383 second
+     Set12 :     06.png : 0.0956 second
+     Set12 :     10.png : 0.0498 second
+     Set12 :     01.png : 0.0162 second
+     Set12 :     07.png : 0.0153 second
+     Set12 :     03.png : 0.0155 second
+     Set12 :     12.png : 0.0474 second
+     Set12 :     09.png : 0.0687 second
+     Set12 :     04.png : 0.0646 second
+     Set12 :     05.png : 0.0963 second
+Datset: Set12      
+  PSNR = 30.16dB, SSIM = 0.9270
+epcoh = 48 , loss = 0.001464028168341209 , time = 261.42151165008545 s
+Train Epoch: 49 [10 / 203] loss = 1.2918086510828951e-05
+Train Epoch: 49 [20 / 203] loss = 1.3394967060197484e-05
+Train Epoch: 49 [30 / 203] loss = 1.3937792656096546e-05
+Train Epoch: 49 [40 / 203] loss = 1.2495991011912172e-05
+Train Epoch: 49 [50 / 203] loss = 1.3169840994206341e-05
+Train Epoch: 49 [60 / 203] loss = 1.3989278919656168e-05
+Train Epoch: 49 [70 / 203] loss = 1.2419676535170187e-05
+Train Epoch: 49 [80 / 203] loss = 1.2902488974346356e-05
+Train Epoch: 49 [90 / 203] loss = 1.3070683714679696e-05
+Train Epoch: 49 [100 / 203] loss = 1.3402330858463592e-05
+Train Epoch: 49 [110 / 203] loss = 1.4453185510567643e-05
+Train Epoch: 49 [120 / 203] loss = 1.3061892241239548e-05
+Train Epoch: 49 [130 / 203] loss = 1.254808051850308e-05
+Train Epoch: 49 [140 / 203] loss = 1.2478736144575205e-05
+Train Epoch: 49 [150 / 203] loss = 1.1981382373381745e-05
+Train Epoch: 49 [160 / 203] loss = 1.1985849546776576e-05
+Train Epoch: 49 [170 / 203] loss = 1.3413197699595581e-05
+Train Epoch: 49 [180 / 203] loss = 1.2904408768835392e-05
+Train Epoch: 49 [190 / 203] loss = 1.4494714030826634e-05
+Train Epoch: 49 [200 / 203] loss = 1.28542782146145e-05
+     Set12 :     11.png : 0.1397 second
+     Set12 :     08.png : 0.0456 second
+     Set12 :     02.png : 0.0184 second
+     Set12 :     06.png : 0.0162 second
+     Set12 :     10.png : 0.0475 second
+     Set12 :     01.png : 0.1093 second
+     Set12 :     07.png : 0.0711 second
+     Set12 :     03.png : 0.0324 second
+     Set12 :     12.png : 0.0754 second
+     Set12 :     09.png : 0.0983 second
+     Set12 :     04.png : 0.0926 second
+     Set12 :     05.png : 0.0166 second
+Datset: Set12      
+  PSNR = 30.22dB, SSIM = 0.9279
+epcoh = 49 , loss = 0.001452020928607749 , time = 262.2161145210266 s
+Train Epoch: 50 [10 / 203] loss = 1.4034305191175505e-05
+Train Epoch: 50 [20 / 203] loss = 1.5202129725366831e-05
+Train Epoch: 50 [30 / 203] loss = 1.2557767331600189e-05
+Train Epoch: 50 [40 / 203] loss = 1.300678440285e-05
+Train Epoch: 50 [50 / 203] loss = 1.3031811580400575e-05
+Train Epoch: 50 [60 / 203] loss = 1.3834420083598658e-05
+Train Epoch: 50 [70 / 203] loss = 1.3175118841569532e-05
+Train Epoch: 50 [80 / 203] loss = 1.3032249725339088e-05
+Train Epoch: 50 [90 / 203] loss = 1.4138709626753222e-05
+Train Epoch: 50 [100 / 203] loss = 1.4521108559248122e-05
+Train Epoch: 50 [110 / 203] loss = 1.2740726709704508e-05
+Train Epoch: 50 [120 / 203] loss = 1.2337365611033006e-05
+Train Epoch: 50 [130 / 203] loss = 1.2353507124564864e-05
+Train Epoch: 50 [140 / 203] loss = 1.292379086159847e-05
+Train Epoch: 50 [150 / 203] loss = 1.3374427164142782e-05
+Train Epoch: 50 [160 / 203] loss = 1.3296168551526287e-05
+Train Epoch: 50 [170 / 203] loss = 1.3194148513403806e-05
+Train Epoch: 50 [180 / 203] loss = 1.2210788289931687e-05
+Train Epoch: 50 [190 / 203] loss = 1.3882602268660611e-05
+Train Epoch: 50 [200 / 203] loss = 1.2952450197190046e-05
+     Set12 :     11.png : 0.0444 second
+     Set12 :     08.png : 0.0931 second
+     Set12 :     02.png : 0.0168 second
+     Set12 :     06.png : 0.0412 second
+     Set12 :     10.png : 0.0702 second
+     Set12 :     01.png : 0.0307 second
+     Set12 :     07.png : 0.0786 second
+     Set12 :     03.png : 0.0158 second
+     Set12 :     12.png : 0.0460 second
+     Set12 :     09.png : 0.0460 second
+     Set12 :     04.png : 0.0178 second
+     Set12 :     05.png : 0.0161 second
+Datset: Set12      
+  PSNR = 30.16dB, SSIM = 0.9271
+epcoh = 50 , loss = 0.0014629321060432442 , time = 264.8517520427704 s
+
