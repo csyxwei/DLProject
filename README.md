@@ -2,7 +2,7 @@
 
 ### 网络结构
 
-![network](./imgs/network.png)
+![network](./imgs/networks.png)
 
 ### 数据集
 
