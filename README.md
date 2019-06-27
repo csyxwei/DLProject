@@ -1,5 +1,9 @@
 # 基于小波变换的Unet图像去噪
 
+### 网络结构
+
+![network](./imgs/network.png)
+
 ### 数据集
 
 	data/
@@ -38,3 +42,7 @@
 - **model_dir** 模型存储位置
 - **model_name** 模型名称， 默认lastest.pth
 - **result_dir** 测试结果存放路径
+
+### 去噪结果
+
+![result](./imgs/result.png)
