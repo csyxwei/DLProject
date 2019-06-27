@@ -12,7 +12,7 @@
 
 ### 训练
 
-    python --cuda --sigma 25
+    python main.py --cuda --sigma 25
     
 可选项
 
